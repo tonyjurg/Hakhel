@@ -1,0 +1,5 @@
+shebanq_query_id,shebanq_short_name,shebanq_query_name,bhsa_version,shebanq_result_count,shebanq_csv_row_count,shebanq_reference,reference,book,chapter,verse,slot,text,ktv,lexeme-t,part-of-speech,gender,phrase#,tab
+7328,taph_with_complete_audience,Co-occurrence of טף with all members of Deut 31:12 group,2021,4,4,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110925,אֲנָשִׁ֤ים ,,>JC/,subs,m,2,4
+7328,taph_with_complete_audience,Co-occurrence of טף with all members of Deut 31:12 group,2021,4,4,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110928,נָּשִׁים֙ ,,>CH/,subs,f,2,4
+7328,taph_with_complete_audience,Co-occurrence of טף with all members of Deut 31:12 group,2021,4,4,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110931,טַּ֔ף ,,VP/,subs,m,2,4
+7328,taph_with_complete_audience,Co-occurrence of טף with all members of Deut 31:12 group,2021,4,4,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110933,גֵרְךָ֖ ,,GR/,subs,m,2,4

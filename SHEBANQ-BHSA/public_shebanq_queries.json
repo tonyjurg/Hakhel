@@ -1,0 +1,30 @@
+{
+  "bhsa_version": "2021",
+  "queries": [
+    {
+      "query_id": 7334,
+      "short_name": "all_taph",
+      "local_description": "Control query for all 42 BHSA occurrences of טף. Its reference and word-slot set is compared with the Context Fabric result."
+    },
+    {
+      "query_id": 7333,
+      "short_name": "taph_with_any_audience_member",
+      "local_description": "Control query for verses in which טף occurs with at least one of אישׁ, אשׁה, or גר."
+    },
+    {
+      "query_id": 7328,
+      "short_name": "taph_with_complete_audience",
+      "local_description": "Control query for a verse containing טף together with אישׁ, אשׁה, and גר."
+    },
+    {
+      "query_id": 7329,
+      "short_name": "audience_without_taph",
+      "local_description": "Negative control for the Deuteronomy 31:12 audience combination אישׁ, אשׁה, and גר in a verse without טף."
+    },
+    {
+      "query_id": 7335,
+      "short_name": "ger_with_taph",
+      "local_description": "Control query for verses in which טף occurs with גר in a verse."
+    }
+  ]
+}

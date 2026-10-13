@@ -1,0 +1,165 @@
+status,publicly_readable_without_login,query_id,short_name,local_description,query_name,public_description,author,organization,project,created_on,modified_on,shared_on,bhsa_version,is_shared,is_published,execution_status,executed_on,published_on,query_execution_id,result_count,result_monads,csv_row_count,mql,mql_sha256,query_url,control_csv,error
+ok,True,7334,all_taph,Control query for all 42 BHSA occurrences of טף. Its reference and word-slot set is compared with the Context Fabric result.,All occurrence of טף,"This query forms part of a series of SHEBANQ queries investigating the Hakhel audience formula in Deuteronomy 31:12, with particular attention to טף (“little ones”).
+
+This query identifies every occurrence of טף.
+
+**All queries in this group**
+
+  - [All occurrences of טף](/hebrew/text?iid=7334&page=1&mr=r&qw=q)
+  - [Co-occurrences of טף with any of Deut 31:12 group](/hebrew/text?iid=7333&page=1&mr=r&qw=q)
+  - [Co-occurrences of טף with all members of Deut 31:12 group](/hebrew/text?iid=7328&page=1&mr=r&qw=q)
+  - [Deut 31:12 audience without the טף ('litle ones')](/hebrew/text?iid=7329&page=1&mr=r&qw=q)",Tony Jurg,VU Amsterdam,ReMa Digital Humanities and Biblical Studies,2026-08-04 20:19:56,2026-10-05 21:24:16,2026-08-05 20:36:26,2021,True,False,good,2026-08-05 20:34:57,____-__-__ __:__:__,8394,42,42,42,"select all objects where
+[verse
+  [word FOCUS
+    lex_utf8 = ""טף""
+  ]
+]",b887c8404e5a5acb2ea11838a55004ce0192fd841d584d1820a8d8d7be722801,https://shebanq.ancient-data.org/hebrew/text?iid=7334&version=2021&mr=r&qw=q,SHEBANQ-BHSA/results/public_query_control/query_results/7334_all_taph.csv,
+ok,True,7333,taph_with_any_audience_member,"Control query for verses in which טף occurs with at least one of אישׁ, אשׁה, or גר.",Co-occurrence of טף with any of Deut 31:12 group,"This query forms part of a series of SHEBANQ queries investigating the Hakhel audience formula in Deuteronomy 31:12, with particular attention to טף (“little ones”).
+
+It identifies every co-occurrence of טף with any of the other groups named in Deuteronomy 31:12: men, women, or resident aliens.
+
+**All queries in this group**
+
+  - [All occurrence of טף](/hebrew/text?iid=7334&page=1&mr=r&qw=q)
+  - [Co-occurrence of טף with any of Deut 31:12 group](/hebrew/text?iid=7333&page=1&mr=r&qw=q)
+  - [Co-occurrence of טף with all members of Deut 31:12 group](/hebrew/text?iid=7328&page=1&mr=r&qw=q)
+  - [Deut 31:12 audience without the טף ('litle ones')](/hebrew/text?iid=7329&page=1&mr=r&qw=q)",Tony Jurg,VU Amsterdam,ReMa Digital Humanities and Biblical Studies,2026-08-04 19:07:57,2026-08-05 21:23:42,2026-08-05 20:26:56,2021,True,False,good,2026-08-05 20:14:40,____-__-__ __:__:__,8393,65,65,65,"select all objects where
+[verse
+  [unorderedgroup
+    [word FOCUS
+      lex_utf8 = ""טף""
+    ]
+    [word FOCUS
+      lex_utf8 = ""אישׁ"" or lex_utf8 = ""אשׁה"" or lex_utf8 = ""גר""
+    ]
+  ]
+]",5f6eaf2b6a078a18cdaf76fa8f6e5c1e4f00b67f32db9e6b38889f7cf873cdec,https://shebanq.ancient-data.org/hebrew/text?iid=7333&version=2021&mr=r&qw=q,SHEBANQ-BHSA/results/public_query_control/query_results/7333_taph_with_any_audience_member.csv,
+ok,True,7328,taph_with_complete_audience,"Control query for a verse containing טף together with אישׁ, אשׁה, and גר.",Co-occurrence of טף with all members of Deut 31:12 group,"This query forms part of a series of SHEBANQ queries investigating the Hakhel audience formula in Deuteronomy 31:12, with particular attention to טף (“little ones”).
+
+This query searches for co-occurrence of טף with all named members of the Deut 31:12 group: men, women, or resident aliens.
+
+**Observations**
+
+There is only one instance where all four named members of the Deut 31:12 group are mentioned in the same verse.
+
+**All queries in this group**
+
+  - [All occurrence of טף](/hebrew/text?iid=7334&page=1&mr=r&qw=q)
+  - [Co-occurrence of טף with any of Deut 31:12 group](/hebrew/text?iid=7333&page=1&mr=r&qw=q)
+  - [Co-occurrence of טף with all members of Deut 31:12 group](/hebrew/text?iid=7328&page=1&mr=r&qw=q)
+  - [Deut 31:12 audience without the טף ('litle ones')](/hebrew/text?iid=7329&page=1&mr=r&qw=q)",Tony Jurg,VU Amsterdam,ReMa Digital Humanities and Biblical Studies,2026-07-14 15:34:03,2026-10-05 21:52:42,2026-08-05 21:23:02,2021,True,False,good,2026-08-05 20:54:30,____-__-__ __:__:__,8386,4,4,4,"select all objects where
+[verse
+  [unorderedgroup
+    [word FOCUS
+      lex_utf8 = ""טף""
+    ]
+    [word FOCUS
+      lex_utf8 = ""אישׁ"" 
+    ]
+    [word FOCUS
+      lex_utf8 = ""אשׁה""
+    ]
+    [word FOCUS
+      lex_utf8 = ""גר""
+    ]
+  ]
+]",8f99e659e0df77b5cbe2d70b579778a27e18acae1f393eea76cf055c77f4b06a,https://shebanq.ancient-data.org/hebrew/text?iid=7328&version=2021&mr=r&qw=q,SHEBANQ-BHSA/results/public_query_control/query_results/7328_taph_with_complete_audience.csv,
+ok,True,7329,audience_without_taph,"Negative control for the Deuteronomy 31:12 audience combination אישׁ, אשׁה, and גר in a verse without טף.",Deut 31:12 audience without the טף ('litle ones'),"The query is part of a series of SHEBANQ queries investigating the Hakhel audience formula in Deuteronomy 31:12, with a special focus on the טף ('little ones') therein.
+
+This SHEBANQ query searches any co-occurrences where טף is excluded, while the other members from Deut 31:12 are present: men, women, and resident alien.
+
+**Building the query**
+
+Relevant terms:
+
+  - the small ones:   VP/ 
+  - man: >JC/
+  - woman: >CH/
+  - resident alien: GR/
+
+EMDROS does not allow combining NOTEXIST  with UNORDEREDGROUP. Therefore it it required to explicitly write out all possible ordered sequences of men, women and resident alien. With 3 variables, there are 3!=6 possible orderings. 
+
+**Observations**
+
+The query will not return a verse. This is correct, since the combination of man, woman and resident alien (in one verse) is not found 'stand-alone,' but only in combination with the 'little ones'. 
+
+The correctness of the query can be checked by commenting out *all* of the NOTEXIST statements which will return Deut 31:12 as the only result.
+
+**All queries in this group**
+
+  - [All occurrences of טף](/hebrew/text?iid=7334&page=1&mr=r&qw=q)
+  - [Co-occurrences of טף with any of Deut 31:12 group](/hebrew/text?iid=7333&page=1&mr=r&qw=q)
+  - [Co-occurrences of טף with all members of Deut 31:12 group](/hebrew/text?iid=7328&page=1&mr=r&qw=q)
+  - [Deut 31:12 audience without the טף ('little ones')](/hebrew/text?iid=7329&page=1&mr=r&qw=q)
+",Tony Jurg,VU Amsterdam,ReMa Digital Humanities and Biblical Studies,2026-07-14 15:34:07,2026-10-05 21:50:19,2026-08-05 21:23:50,2021,True,False,good,2026-10-05 21:50:19,____-__-__ __:__:__,8387,0,0,0,"SELECT ALL OBJECTS WHERE
+
+[VERSE 
+  NOTEXIST [WORD lex = ""VP/""]
+  // 1st permutation 
+  [WORD FOCUS lex = "">JC/""]
+  ..
+  [WORD FOCUS lex = "">CH/""]
+  ..
+  [WORD FOCUS lex = ""GR/""]
+
+OR
+
+  NOTEXIST [WORD lex = ""VP/""]
+  // 2nd permutation 
+  [WORD FOCUS lex = "">JC/""]
+  ..
+  [WORD FOCUS lex = ""GR/""]
+  ..
+  [WORD FOCUS lex = "">CH/""]
+
+OR
+
+  NOTEXIST [WORD lex = ""VP/""]
+  // 3rd permutation 
+  [WORD FOCUS lex = "">CH/""]
+  ..
+  [WORD FOCUS lex = "">JC/""]
+  ..
+  [WORD FOCUS lex = ""GR/""]
+
+OR
+
+  NOTEXIST [WORD lex = ""VP/""]
+  // 4th permutation 
+  [WORD FOCUS lex = "">CH/""]
+  ..
+  [WORD FOCUS lex = ""GR/""]
+  ..
+  [WORD lex = "">JC/""]
+
+OR
+
+  NOTEXIST [WORD lex = ""VP/""]
+  // 5th permutation 
+  [WORD FOCUS lex = ""GR/""]
+  ..
+  [WORD FOCUS lex = "">JC/""]
+  ..
+  [WORD FOCUS lex = "">CH/""]
+
+OR
+
+  NOTEXIST [WORD lex = ""VP/""]
+  // 6th permutation 
+  [WORD FOCUS lex = ""GR/""]
+  ..
+  [WORD FOCUS lex = "">CH/""]
+  ..
+  [WORD FOCUS lex = "">JC/""]
+]
+
+GO",3cf2270151830d6105a5782582c5698f840da009d849672b9d2cc997176050c4,https://shebanq.ancient-data.org/hebrew/text?iid=7329&version=2021&mr=r&qw=q,SHEBANQ-BHSA/results/public_query_control/query_results/7329_audience_without_taph.csv,
+ok,True,7335,ger_with_taph,Control query for verses in which טף occurs with גר in a verse.,Where occur טף and גר together,"The query is part of a series of SHEBANQ queries investigating the Hakhel audience formula in Deuteronomy 31:12, with a special focus on the טף ('litle ones') therein.
+
+This SHEBANQ query searches any cooccurance where טף and גר occur together.",Tony Jurg,VU Amsterdam,ReMa Digital Humanities and Biblical Studies,2026-08-06 09:06:03,2026-08-06 09:09:34,2026-08-06 09:09:44,2021,True,False,good,2026-08-06 09:09:12,____-__-__ __:__:__,8395,6,6,6,"SELECT ALL OBJECTS WHERE
+[verse 
+  [UNORDEREDGROUP
+    [word FOCUS lex = ""VP/""]
+    [word FOCUS lex = ""GR/""]
+  ]
+]",ce123fa5f3b802bba99bfd89b1f5561bcb46eae601d9d8dd805f28c7cc783a28,https://shebanq.ancient-data.org/hebrew/text?iid=7335&version=2021&mr=r&qw=q,SHEBANQ-BHSA/results/public_query_control/query_results/7335_ger_with_taph.csv,
