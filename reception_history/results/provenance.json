@@ -1,0 +1,26 @@
+{
+  "research_subject": "Reception history of Hakhel and the little ones (Deuteronomy 31:12)",
+  "sefaria_mcp_endpoint": "https://mcp.sefaria.org/sse",
+  "mcp_tools_used": [
+    "text_search",
+    "get_text",
+    "get_links_between_texts"
+  ],
+  "live_evidence_date": "2026-06-19",
+  "primary_anchor": "Deuteronomy 31:12",
+  "consolidated_source_runs": [
+    "initial_sefaria_mcp",
+    "reception_history_live_2026-06-19",
+    "targeted_supplement_2026-08-06"
+  ],
+  "consolidation_note": "The earlier exploratory tables and raw payloads remain unchanged below results/source_runs/initial_sefaria_mcp. The 2026-06-19 search configuration is kept exactly as run. A dated targeted supplement records the previously missing Maor VaShemesh witness. Consolidated exports retain source-run and query-hit provenance before deduplicating references.",
+  "researcher_supplied_layers": {
+    "reception_evidence.csv": "A manually curated chronological interpretation table whose reference field uses canonical stored Sefaria references.",
+    "discovery_tags": "A researcher-supplied keyword index for navigating the retrieved texts; Sefaria does not supply these tags."
+  },
+  "limitations": [
+    "Sefaria coverage is selective and does not represent all Jewish reception.",
+    "Search ranking and available translations may change.",
+    "Broad date ranges are research navigation aids rather than exact dating claims."
+  ]
+}

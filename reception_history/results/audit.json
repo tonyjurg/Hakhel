@@ -1,0 +1,30 @@
+{
+  "curated_evidence_rows": 20,
+  "consolidated_search_source_rows": 294,
+  "consolidated_search_unique_references": 133,
+  "consolidated_full_text_source_rows": 404,
+  "consolidated_full_text_unique_references": 332,
+  "initial_sefaria_mcp_search_rows_preserved": 75,
+  "initial_sefaria_mcp_full_text_rows_preserved": 78,
+  "period_groups": 9,
+  "anchor_verse": "Deuteronomy 31:12",
+  "early_rabbinic_witnesses": 6,
+  "medieval_or_targumic_witnesses": 7,
+  "early_modern_or_modern_halakhic_witnesses": 3,
+  "hasidic_witnesses": 2,
+  "modern_jewish_thought_witnesses": 1,
+  "major_reception_themes": [
+    "reward to bringers",
+    "child learning",
+    "minor obligation and age",
+    "synagogue formation and disruption",
+    "spiritual imprint",
+    "communal solidarity",
+    "covenant renewal"
+  ],
+  "configured_live_search_queries": 8,
+  "current_raw_query_hits": 175,
+  "initial_raw_query_hits": 119,
+  "targeted_supplement_full_text_rows": 1,
+  "curated_references_without_stored_text": []
+}

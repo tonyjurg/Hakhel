@@ -1,0 +1,155 @@
+{
+  "scope": {
+    "urn": "urn:cts:greekLit:tlg0018",
+    "label": "Philo Judaeus",
+    "work_count": 31
+  },
+  "search_terms": [
+    {
+      "theme": "feast_of_booths",
+      "query": "σκηνα*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "seven",
+      "query": "ἑβδομά*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "reading",
+      "query": "ἀνάγνω*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "hearing",
+      "query": "ἀκρο*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "law",
+      "query": "νόμ*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "child",
+      "query": "παιδ*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "offspring",
+      "query": "τέκν*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "women",
+      "query": "γυναικ*",
+      "search_kind": "form"
+    },
+    {
+      "theme": "men",
+      "query": "ἀνδρ*",
+      "search_kind": "form"
+    }
+  ],
+  "search_summary": [
+    {
+      "theme": "feast_of_booths",
+      "query": "σκηνα*",
+      "search_kind": "form",
+      "reported_total": 15,
+      "pages_collected": 2,
+      "rows_collected": 15,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "seven",
+      "query": "ἑβδομά*",
+      "search_kind": "form",
+      "reported_total": 112,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "reading",
+      "query": "ἀνάγνω*",
+      "search_kind": "form",
+      "reported_total": 14,
+      "pages_collected": 2,
+      "rows_collected": 14,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "hearing",
+      "query": "ἀκρο*",
+      "search_kind": "form",
+      "reported_total": 166,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "law",
+      "query": "νόμ*",
+      "search_kind": "form",
+      "reported_total": 1328,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "child",
+      "query": "παιδ*",
+      "search_kind": "form",
+      "reported_total": 521,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "offspring",
+      "query": "τέκν*",
+      "search_kind": "form",
+      "reported_total": 121,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "women",
+      "query": "γυναικ*",
+      "search_kind": "form",
+      "reported_total": 353,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    },
+    {
+      "theme": "men",
+      "query": "ἀνδρ*",
+      "search_kind": "form",
+      "reported_total": 674,
+      "pages_collected": 2,
+      "rows_collected": 20,
+      "failed_pages": 0,
+      "error": null
+    }
+  ],
+  "audit": {
+    "mcp_server": "perseus",
+    "philo_textgroup": "urn:cts:greekLit:tlg0018",
+    "search_terms": 9,
+    "themed_hits": 169,
+    "unique_passages": 151,
+    "retrieval_failures": 0,
+    "focused_special_laws_rows": 9
+  }
+}

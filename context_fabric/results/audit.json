@@ -1,0 +1,29 @@
+{
+  "local_endpoint": "http://127.0.0.1:8765/sse",
+  "bhsa_commit": "4db00e2157915495e1a4d3d57e41223df24775da",
+  "context_mapping_file": "context_fabric/context_classification_mapping.json",
+  "context_mapping_sha256": "89b8425d65c0376095a19dcc6bfcbc688ffb021177163351fbaa277e22cc66e1",
+  "context_mapping_type": "researcher-supplied interpretive classification",
+  "classification_review_file": "context_fabric/results/taf_context_classification_review.csv",
+  "context_frame_counts": {
+    "household movement, displacement, or protected residence": 17,
+    "conflict, captivity, or lethal judgment": 16,
+    "covenant, cultic, or administrative inclusion": 5,
+    "household provision or survival": 4
+  },
+  "classified_context_detail_rows": 42,
+  "validated_hebrew_phrase_rows": 42,
+  "working_translation_rows": 42,
+  "taf_total": 42,
+  "taf_with_woman": 26,
+  "taf_with_ger": 3,
+  "taf_with_woman_and_ger": 3,
+  "taf_ger_references": [
+    "Deuteronomy 29:10",
+    "Deuteronomy 31:12",
+    "Joshua 8:35"
+  ],
+  "deut_31_12_audience_matches": 1,
+  "deut_31_12_purpose_matches": 1,
+  "deut_31_13_chain_matches": 1
+}

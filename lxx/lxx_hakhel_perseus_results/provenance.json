@@ -1,0 +1,9 @@
+{
+  "mcp_server": "perseus",
+  "perseus_mcp_version": "1.0.2",
+  "fastmcp_version": "3.4.0",
+  "lxx_textgroup": "urn:cts:greekLit:tlg0527",
+  "deuteronomy_edition": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+  "joshua_edition": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+  "masoretic_to_greek_reference_note": "MT Joshua 8:34-35 corresponds to Greek Joshua 9:7-8 in this edition."
+}

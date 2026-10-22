@@ -1,0 +1,128 @@
+{
+  "input_csv": "context_fabric\\results\\taf_occurrences_context_classified.csv",
+  "input_audit": "context_fabric\\results\\audit.json",
+  "bhsa_rows": 42,
+  "lxx_textgroup": "urn:cts:greekLit:tlg0527",
+  "book_map": {
+    "Genesis": {
+      "lxx_title": "Genesis",
+      "work": "tlg001",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg001",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1"
+    },
+    "Exodus": {
+      "lxx_title": "Exodus",
+      "work": "tlg002",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg002",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1"
+    },
+    "Numbers": {
+      "lxx_title": "Numbers",
+      "work": "tlg004",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg004",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1"
+    },
+    "Deuteronomy": {
+      "lxx_title": "Deuteronomy",
+      "work": "tlg005",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg005",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1"
+    },
+    "Joshua": {
+      "lxx_title": "Joshua",
+      "work": "tlg006",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg006",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1"
+    },
+    "Judges": {
+      "lxx_title": "Judges",
+      "work": "tlg008",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg008",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1"
+    },
+    "2 Samuel": {
+      "lxx_title": "2 Samuel",
+      "work": "tlg012",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg012",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1"
+    },
+    "Jeremiah": {
+      "lxx_title": "Jeremiah",
+      "work": "tlg049",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg049",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1"
+    },
+    "Ezekiel": {
+      "lxx_title": "Ezekiel",
+      "work": "tlg053",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg053",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1"
+    },
+    "Esther": {
+      "lxx_title": "Esther",
+      "work": "tlg019",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg019",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1"
+    },
+    "Ezra": {
+      "lxx_title": "2 Esdras",
+      "work": "tlg018",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg018",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1"
+    },
+    "2 Chronicles": {
+      "lxx_title": "2 Chronicles",
+      "work": "tlg016",
+      "work_urn": "urn:cts:greekLit:tlg0527.tlg016",
+      "edition_urn": "urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1"
+    }
+  },
+  "reference_overrides": {
+    "Deuteronomy 29:10": {
+      "lxx_locator": "29.11",
+      "reason": "The women, ἔκγονα, and resident alien occur in Greek 29.11."
+    },
+    "Joshua 8:35": {
+      "lxx_locator": "9.8",
+      "reason": "The covenant-reading audience occurs in Greek Joshua 9.8."
+    }
+  },
+  "books_requiring_reference_review": {
+    "Jeremiah": "LXX Jeremiah differs from the Masoretic order after chapter 25."
+  },
+  "greek_candidate_families": {
+    "ἀποσκευή": [
+      "αποσκευ"
+    ],
+    "ἔκγονον": [
+      "εκγον"
+    ],
+    "παιδίον / παῖς": [
+      "παιδ",
+      "παισ"
+    ],
+    "τέκνον": [
+      "τεκν"
+    ],
+    "νήπιος": [
+      "νηπι"
+    ],
+    "βρέφος": [
+      "βρεφ"
+    ],
+    "σῶμα": [
+      "σωμα"
+    ],
+    "οἶκος / πανοικία": [
+      "οικ",
+      "πανοικ"
+    ],
+    "ἀπαρτία": [
+      "απαρτι"
+    ],
+    "ἐπίγονος / ἐπιγονή": [
+      "επιγον"
+    ]
+  },
+  "perseus_mcp_version": "1.0.2"
+}

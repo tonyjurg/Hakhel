@@ -1,0 +1,21 @@
+.context-fabric-venv/
+.tmp/
+.jupyter-runtime/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+context_fabric/data/
+context_fabric/server/
+lxx/.cache/
+
+# Local credentials and authentication material must never be committed.
+**/.env
+**/.env.*
+!**/.env.example
+**/credentials.json
+**/client_secret*.json
+**/secrets.json
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
