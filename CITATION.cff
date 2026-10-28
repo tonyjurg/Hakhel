@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research or its notebooks, please cite this repository using the metadata below."
+type: software
+title: "Hakhel"
+authors:
+  - family-names: "Jurg"
+    given-names: "Tony"
+doi: "10.5281/zenodo.23724677"
+url: "https://tonyjurg.github.io/Hakhel/"
+repository-code: "https://github.com/tonyjurg/Hakhel"
+abstract: >-
+  Research notebooks investigating the inclusion of the little ones in
+  Deuteronomy 31:10–13 through Hebrew evidence, the Septuagint, Philo,
+  and Jewish reception history.

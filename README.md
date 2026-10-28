@@ -1,4 +1,5 @@
 [![Project status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23724677.svg)](https://doi.org/10.5281/zenodo.23724677)
 [![Code: MIT](https://img.shields.io/badge/Code-MIT-blue)](LICENSE)
 [![Original text: CC BY 4.0](https://img.shields.io/badge/Original_text-CC_BY_4.0-blue)](LICENSE-TEXT.md)
 [![MCP SDK: 1.30.0](https://img.shields.io/badge/MCP_SDK-1.30.0-397A61)](context_fabric/requirements.txt)
