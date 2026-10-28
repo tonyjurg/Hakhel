@@ -1,0 +1,46 @@
+name: Publish overview site
+
+on:
+  push:
+    branches: [main]
+    paths: ['index.html', 'site/style.css', 'images/overview.png', 'images/tje-black.png', 'images/hakhel-icon.png', 'images/hakhel-icon-with_background.jpg', '.github/workflows/pages.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/configure-pages@v5
+      - name: Collect public site files
+        run: |
+          mkdir -p _site/site _site/images
+          cp index.html _site/index.html
+          cp site/style.css _site/site/style.css
+          cp images/overview.png _site/images/overview.png
+          cp images/tje-black.png _site/images/tje-black.png
+          cp images/hakhel-icon.png _site/images/hakhel-icon.png
+          cp images/hakhel-icon-with_background.jpg _site/images/hakhel-icon-with_background.jpg
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

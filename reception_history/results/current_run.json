@@ -1,0 +1,6 @@
+{
+  "run_id": "live_2026-10-26_105712_58edc937",
+  "path": "source_runs/live_2026-10-26_105712_58edc937",
+  "status": "validated",
+  "note": "MCP 1.30.0; 344 successful texts from 345 requests; all curated references retrieved. One text-retrieval failure remains documented in the audit."
+}

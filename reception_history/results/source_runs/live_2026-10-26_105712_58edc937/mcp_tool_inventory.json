@@ -1,0 +1,625 @@
+[
+  {
+    "name": "get_text",
+    "title": "Get Text",
+    "description": "Retrieves the actual text content from a specific reference in the Jewish library.",
+    "inputSchema": {
+      "properties": {
+        "reference": {
+          "type": "string",
+          "description": "Specific text reference (e.g. 'Genesis 1:1', 'Berakhot 2a')."
+        },
+        "version_language": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Which language version to retrieve - 'source', 'english', 'both', or omit for all."
+        }
+      },
+      "required": [
+        "reference"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "text_search",
+    "title": "Text Search",
+    "description": "Searches across the entire Jewish library for passages containing specific terms.\n\nSEARCH TIPS:\n- Hebrew/Aramaic searches are more reliable than English translations\n- English searches can be hit-and-miss due to translation variations\n- If no results found, try searching with fewer words\n- Use specific Hebrew terms when possible for better accuracy",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "type": "string",
+          "description": "Search terms (Hebrew/Aramaic preferred for best results)."
+        },
+        "filters": {
+          "anyOf": [
+            {
+              "items": {
+                "type": "string"
+              },
+              "type": "array"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Category paths to limit search scope."
+        },
+        "size": {
+          "default": 10,
+          "type": "integer",
+          "description": "Maximum number of results to return."
+        }
+      },
+      "required": [
+        "query"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_current_calendar",
+    "title": "Get Current Calendar",
+    "description": "Provides current Jewish calendar information including Hebrew date, parasha, holidays, etc.",
+    "inputSchema": {
+      "properties": {
+        "diaspora": {
+          "default": true,
+          "type": "boolean",
+          "description": "Use the Diaspora Torah reading schedule when True. Set to False for\nthe Israeli schedule when Israel and Diaspora readings diverge."
+        }
+      },
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_links_between_texts",
+    "title": "Get Links Between Texts",
+    "description": "Finds all cross-references and connections to a specific text passage.",
+    "inputSchema": {
+      "properties": {
+        "reference": {
+          "type": "string",
+          "description": "Specific text reference (e.g. 'Genesis 1:1', 'Berakhot 2a')."
+        },
+        "with_text": {
+          "default": "0",
+          "type": "string",
+          "description": "Whether to include the actual text content ('0' or '1')."
+        }
+      },
+      "required": [
+        "reference"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "search_in_book",
+    "title": "Search In Book",
+    "description": "Searches for content within one specific book or text work.\n\nSEARCH TIPS:\n- Hebrew/Aramaic searches are more reliable than English translations\n- English searches can be hit-and-miss due to translation variations\n- If no results found, try searching with fewer words\n- Use specific Hebrew terms when possible for better accuracy",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "type": "string",
+          "description": "Search terms to find within the specified book (Hebrew/Aramaic preferred)."
+        },
+        "book_name": {
+          "type": "string",
+          "description": "Exact name of the book to search within."
+        },
+        "size": {
+          "default": 10,
+          "type": "integer",
+          "description": "Maximum number of results to return."
+        }
+      },
+      "required": [
+        "query",
+        "book_name"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "search_in_dictionaries",
+    "title": "Search In Dictionaries",
+    "description": "Searches specifically within Jewish reference dictionaries.\n\nSEARCH TIPS:\n- Hebrew/Aramaic searches are more reliable than English translations\n- English searches can be hit-and-miss due to translation variations\n- If no results found, try searching with fewer words\n- Use specific Hebrew terms when possible for better accuracy",
+    "inputSchema": {
+      "properties": {
+        "query": {
+          "type": "string",
+          "description": "Hebrew, Aramaic, or English term to look up (Hebrew/Aramaic preferred)."
+        }
+      },
+      "required": [
+        "query"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_english_translations",
+    "title": "Get English Translations",
+    "description": "Retrieves all available English translations for a specific text reference.",
+    "inputSchema": {
+      "properties": {
+        "reference": {
+          "type": "string",
+          "description": "Specific text reference (e.g. 'Genesis 1:1', 'Berakhot 2a')."
+        }
+      },
+      "required": [
+        "reference"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_topic_details",
+    "title": "Get Topic Details",
+    "description": "Retrieves detailed information about specific topics in Jewish thought and texts.",
+    "inputSchema": {
+      "properties": {
+        "topic_slug": {
+          "type": "string",
+          "description": "Topic identifier slug (e.g. 'moses', 'sabbath')."
+        },
+        "with_links": {
+          "default": false,
+          "type": "boolean",
+          "description": "Include links to related topics."
+        },
+        "with_refs": {
+          "default": false,
+          "type": "boolean",
+          "description": "Include text references tagged with this topic."
+        }
+      },
+      "required": [
+        "topic_slug"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "clarify_name_argument",
+    "title": "Clarify Name Argument",
+    "description": "Validates and autocompletes text names, book titles, references, topic slugs, author names, and categories.",
+    "inputSchema": {
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Partial or complete name to validate/complete."
+        },
+        "limit": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Maximum number of suggestions to return."
+        },
+        "type_filter": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Filter results by type (e.g., 'ref', 'Topic', 'Collection')."
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "clarify_search_path_filter",
+    "title": "Clarify Search Path Filter",
+    "description": "Converts a book name into a proper search filter path.",
+    "inputSchema": {
+      "properties": {
+        "book_name": {
+          "type": "string",
+          "description": "Name of the book to convert."
+        }
+      },
+      "required": [
+        "book_name"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_text_or_category_shape",
+    "title": "Get Text Or Category Shape",
+    "description": "Retrieves the hierarchical structure and organization of texts or categories.",
+    "inputSchema": {
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Text title or category name."
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_text_catalogue_info",
+    "title": "Get Text Catalogue Info",
+    "description": "Retrieves the bibliographic and structural information (index) for a text or work.",
+    "inputSchema": {
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Title of the text or work (e.g. 'Genesis', 'Mishnah Berakhot')."
+        }
+      },
+      "required": [
+        "title"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_available_manuscripts",
+    "title": "Get Available Manuscripts",
+    "description": "Retrieves historical manuscript metadata and image URLs for text passages.",
+    "inputSchema": {
+      "properties": {
+        "reference": {
+          "type": "string",
+          "description": "Specific text reference to find manuscripts for."
+        }
+      },
+      "required": [
+        "reference"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  },
+  {
+    "name": "get_manuscript_image",
+    "title": "Get Manuscript Image",
+    "description": "Downloads and returns a specific manuscript image from a given image URL.",
+    "inputSchema": {
+      "properties": {
+        "image_url": {
+          "type": "string",
+          "description": "The URL of the manuscript image to download."
+        },
+        "manuscript_title": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Title or description for the manuscript."
+        }
+      },
+      "required": [
+        "image_url"
+      ],
+      "type": "object",
+      "additionalProperties": false
+    },
+    "outputSchema": {
+      "properties": {
+        "result": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "result"
+      ],
+      "type": "object",
+      "x-fastmcp-wrap-result": true
+    },
+    "icons": null,
+    "annotations": null,
+    "meta": {
+      "fastmcp": {
+        "tags": []
+      }
+    },
+    "execution": null
+  }
+]

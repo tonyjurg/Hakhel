@@ -1,0 +1,27 @@
+{
+  "run_id": "bhsa_20261026T095844Z_e4583744",
+  "started_at_utc": "2026-10-26T09:58:44.164245+00:00",
+  "completed_at_utc": "2026-10-26T09:59:06.439452+00:00",
+  "python": "3.14.2",
+  "packages": {
+    "cfabric-mcp": "0.1.7",
+    "context-fabric": "0.5.7",
+    "mcp": "1.30.0",
+    "pandas": "3.0.3",
+    "nbformat": "5.10.4",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.3.0"
+  },
+  "bhsa_commit": "4db00e2157915495e1a4d3d57e41223df24775da",
+  "bhsa_version_directory": "tf/2021",
+  "tf_feature_file_count": 117,
+  "tf_feature_bytes": 208996790,
+  "mcp_url": "http://127.0.0.1:53690/sse",
+  "researcher_supplied_mappings": {
+    "context_frame": {
+      "file": "context_fabric/context_classification_mapping.json",
+      "sha256": "89b8425d65c0376095a19dcc6bfcbc688ffb021177163351fbaa277e22cc66e1",
+      "claim": "Explicit interpretive coding, not a BHSA or Context Fabric feature."
+    }
+  }
+}

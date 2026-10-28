@@ -1,0 +1,24 @@
+name,description
+get_passage,Get the text of a specific passage using a CTS URN.
+get_passage_plus,Get passage text plus surrounding metadata/context for a CTS URN.
+get_passage_plaintext,Get a passage as plain readable text instead of raw CTS XML.
+get_valid_references,"Get valid citations/references for a work, useful for navigation."
+get_valid_references_json,Get valid citation references as paged JSON instead of raw CTS XML.
+count_valid_references,Count valid citation references without returning the full reference list.
+get_capabilities,Get the list of available texts and editions from Perseus CTS.
+get_cache_status,Get local metadata cache status.
+refresh_metadata_cache,Refresh cached CTS and Scaife library metadata.
+clear_metadata_cache,Clear local metadata cache files and in-memory cache entries.
+list_text_groups,List authors/textgroups and their works from CTS capabilities.
+get_author_resources,List CTS works/editions/translations for an author name or textgroup URN.
+find_author_names,Find author/textgroup names by partial name match across Perseus catalogs.
+get_work_resources,List editions/translations/resources for a matching work URN or title.
+get_label,Get human-readable labels/metadata for a CTS URN (work or edition).
+get_first_urn,Get the first available reference URN for a work/edition URN.
+get_prev_next_urn,Get previous and next URNs for a passage URN.
+search_perseus,Search Perseus texts via Scaife API.
+search_within_text,Search within a single Scaife text/edition URN.
+get_passage_highlights,Get Scaife token highlight positions for a query within one passage.
+get_scaife_library_metadata,"Get Scaife JSON metadata for a textgroup, work, edition, or translation URN."
+get_scaife_passage_json,Get Scaife JSON passage metadata/content for a passage URN.
+get_scaife_passage_text,Get Scaife plaintext for a passage URN.

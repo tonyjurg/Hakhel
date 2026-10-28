@@ -1,0 +1,50 @@
+{
+  "generated_at_utc": "2026-10-26T10:16:23.927900+00:00",
+  "bhsa_version": "2021",
+  "authentication_used": false,
+  "query_ids": [
+    7334,
+    7333,
+    7328,
+    7329,
+    7335
+  ],
+  "all_queries_shared": true,
+  "formal_publication_flags": {
+    "7334": false,
+    "7333": false,
+    "7328": false,
+    "7329": false,
+    "7335": false
+  },
+  "query_result_counts": {
+    "7334": 42,
+    "7333": 65,
+    "7328": 4,
+    "7329": 0,
+    "7335": 6
+  },
+  "query_focus_rows": {
+    "7334": 42,
+    "7333": 65,
+    "7328": 4,
+    "7329": 0,
+    "7335": 6
+  },
+  "book_name_mapping": {
+    "Numeri": "Numbers",
+    "Deuteronomium": "Deuteronomy",
+    "Josua": "Joshua",
+    "Judices": "Judges",
+    "Samuel_II": "2_Samuel",
+    "Jeremia": "Jeremiah",
+    "Ezechiel": "Ezekiel",
+    "Esra": "Ezra",
+    "Chronica_II": "2_Chronicles"
+  },
+  "context_fabric_input": "context_fabric/results/taf_occurrences.csv",
+  "all_taph_control_rows": 42,
+  "slots_present_in_both_routes": 42,
+  "mapped_references_agreeing": 42,
+  "exact_context_fabric_control_match": true
+}

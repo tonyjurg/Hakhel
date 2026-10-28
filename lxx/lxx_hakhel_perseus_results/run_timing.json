@@ -1,0 +1,256 @@
+{
+  "run_id": "lxx_core_20261027T204630Z_758c548d",
+  "started_at_utc": "2026-10-27T20:46:30.212629Z",
+  "completed_at_utc": "2026-10-27T20:46:33.549016Z",
+  "status": "completed",
+  "software_versions": {
+    "python": "3.12.3",
+    "perseus-mcp": "1.0.2",
+    "fastmcp": "3.4.0",
+    "mcp": "1.30.0",
+    "pandas": "2.2.3"
+  },
+  "retrieval_endpoints": {
+    "CTS_BASE": "https://www.perseus.tufts.edu/hopper/CTS",
+    "SCAIFE_SEARCH": "https://scaife.perseus.org/search/json/",
+    "SCAIFE_LIBRARY": "https://scaife.perseus.org/library/"
+  },
+  "source_editions": [
+    "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1"
+  ],
+  "source_retrieval_started_at_utc": "2026-10-27T20:46:30.339112Z",
+  "source_retrieval_completed_at_utc": "2026-10-27T20:46:33.480524Z",
+  "retrieval_dates_utc": [
+    "2026-10-27"
+  ],
+  "cache_environment": {
+    "PERSEUS_MCP_DISABLE_CACHE": null,
+    "PERSEUS_MCP_CACHE_DIR": null,
+    "PERSEUS_MCP_CACHE_TTL_SECONDS": null
+  },
+  "timestamp_scope": "Notebook execution and MCP calls; a tool may serve cached upstream data. These are not upstream publication or revision dates.",
+  "retrieval_requests": [
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527"
+      },
+      "started_at_utc": "2026-10-27T20:46:30.339112Z",
+      "completed_at_utc": "2026-10-27T20:46:30.999396Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.006846Z",
+      "completed_at_utc": "2026-10-27T20:46:31.125351Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.131528Z",
+      "completed_at_utc": "2026-10-27T20:46:31.250014Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.280486Z",
+      "completed_at_utc": "2026-10-27T20:46:31.405855Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_json",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.411729Z",
+      "completed_at_utc": "2026-10-27T20:46:31.534969Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.574875Z",
+      "completed_at_utc": "2026-10-27T20:46:31.698349Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_json",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12"
+      },
+      "started_at_utc": "2026-10-27T20:46:31.703553Z",
+      "completed_at_utc": "2026-10-27T20:46:31.824257Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "ἀνέγνω",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 50
+      },
+      "started_at_utc": "2026-10-27T20:46:31.863593Z",
+      "completed_at_utc": "2026-10-27T20:46:31.990414Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "ἐκκλησίας",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 50
+      },
+      "started_at_utc": "2026-10-27T20:46:31.996102Z",
+      "completed_at_utc": "2026-10-27T20:46:32.118053Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "γυναιξὶν",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 50
+      },
+      "started_at_utc": "2026-10-27T20:46:32.118053Z",
+      "completed_at_utc": "2026-10-27T20:46:32.233123Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "παιδίοις",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 50
+      },
+      "started_at_utc": "2026-10-27T20:46:32.251467Z",
+      "completed_at_utc": "2026-10-27T20:46:32.377822Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "προσηλύτοις",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 50
+      },
+      "started_at_utc": "2026-10-27T20:46:32.381173Z",
+      "completed_at_utc": "2026-10-27T20:46:32.504494Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8"
+      },
+      "started_at_utc": "2026-10-27T20:46:32.537312Z",
+      "completed_at_utc": "2026-10-27T20:46:32.658058Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_json",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8"
+      },
+      "started_at_utc": "2026-10-27T20:46:32.667396Z",
+      "completed_at_utc": "2026-10-27T20:46:32.788034Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "ἔκγονα",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 100
+      },
+      "started_at_utc": "2026-10-27T20:46:32.822859Z",
+      "completed_at_utc": "2026-10-27T20:46:32.953469Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "τέκνα",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 100
+      },
+      "started_at_utc": "2026-10-27T20:46:32.966107Z",
+      "completed_at_utc": "2026-10-27T20:46:33.086849Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "παιδία",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 100
+      },
+      "started_at_utc": "2026-10-27T20:46:33.091840Z",
+      "completed_at_utc": "2026-10-27T20:46:33.229444Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "παιδίοις",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 100
+      },
+      "started_at_utc": "2026-10-27T20:46:33.233937Z",
+      "completed_at_utc": "2026-10-27T20:46:33.355025Z",
+      "status": "returned"
+    },
+    {
+      "tool": "search_within_text",
+      "arguments": {
+        "query": "ἔκγονα",
+        "text_urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "language": "greek",
+        "query_format": "unicode",
+        "search_kind": "form",
+        "size": 100
+      },
+      "started_at_utc": "2026-10-27T20:46:33.359162Z",
+      "completed_at_utc": "2026-10-27T20:46:33.480524Z",
+      "status": "returned"
+    }
+  ]
+}

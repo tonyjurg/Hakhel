@@ -1,0 +1,541 @@
+{
+  "run_id": "lxx_alignment_20261026T095922Z_e9b4ebff",
+  "started_at_utc": "2026-10-26T09:59:22.237091Z",
+  "completed_at_utc": "2026-10-26T09:59:45.459541Z",
+  "status": "completed",
+  "software_versions": {
+    "python": "3.14.2",
+    "perseus-mcp": "1.0.2",
+    "fastmcp": "3.4.11",
+    "mcp": "1.30.0",
+    "pandas": "3.0.3"
+  },
+  "retrieval_endpoints": {
+    "CTS_BASE": "https://www.perseus.tufts.edu/hopper/CTS",
+    "SCAIFE_SEARCH": "https://scaife.perseus.org/search/json/",
+    "SCAIFE_LIBRARY": "https://scaife.perseus.org/library/"
+  },
+  "source_editions": [
+    "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1",
+    "urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1"
+  ],
+  "source_retrieval_started_at_utc": "2026-10-26T09:59:22.569563Z",
+  "source_retrieval_completed_at_utc": "2026-10-26T09:59:45.128256Z",
+  "retrieval_dates_utc": [
+    "2026-10-26"
+  ],
+  "cache_environment": {
+    "PERSEUS_MCP_DISABLE_CACHE": "1",
+    "PERSEUS_MCP_CACHE_DIR": "C:\\Users\\tonyj\\AppData\\Local\\Temp\\hakhel-mcp130-vx1fcgkb\\cache",
+    "PERSEUS_MCP_CACHE_TTL_SECONDS": null
+  },
+  "timestamp_scope": "Notebook execution and MCP calls; a tool may serve cached upstream data. These are not upstream publication or revision dates.",
+  "retrieval_requests": [
+    {
+      "tool": "get_author_resources",
+      "arguments": {
+        "author": "urn:cts:greekLit:tlg0527",
+        "language": "greek"
+      },
+      "started_at_utc": "2026-10-26T09:59:22.569563Z",
+      "completed_at_utc": "2026-10-26T09:59:30.181502Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001"
+      },
+      "started_at_utc": "2026-10-26T09:59:30.185696Z",
+      "completed_at_utc": "2026-10-26T09:59:30.608951Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg002"
+      },
+      "started_at_utc": "2026-10-26T09:59:30.611046Z",
+      "completed_at_utc": "2026-10-26T09:59:30.722057Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004"
+      },
+      "started_at_utc": "2026-10-26T09:59:30.723928Z",
+      "completed_at_utc": "2026-10-26T09:59:30.836622Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005"
+      },
+      "started_at_utc": "2026-10-26T09:59:30.838242Z",
+      "completed_at_utc": "2026-10-26T09:59:30.950066Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006"
+      },
+      "started_at_utc": "2026-10-26T09:59:30.951813Z",
+      "completed_at_utc": "2026-10-26T09:59:31.062951Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg008"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.065106Z",
+      "completed_at_utc": "2026-10-26T09:59:31.178540Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg012"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.180361Z",
+      "completed_at_utc": "2026-10-26T09:59:31.293860Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg049"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.295907Z",
+      "completed_at_utc": "2026-10-26T09:59:31.407034Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg053"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.408974Z",
+      "completed_at_utc": "2026-10-26T09:59:31.521408Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg019"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.523410Z",
+      "completed_at_utc": "2026-10-26T09:59:31.635658Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg018"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.637339Z",
+      "completed_at_utc": "2026-10-26T09:59:31.751995Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_library_metadata",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg016"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.754247Z",
+      "completed_at_utc": "2026-10-26T09:59:31.865272Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:34.29"
+      },
+      "started_at_utc": "2026-10-26T09:59:31.959971Z",
+      "completed_at_utc": "2026-10-26T09:59:32.141903Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:43.8"
+      },
+      "started_at_utc": "2026-10-26T09:59:32.195724Z",
+      "completed_at_utc": "2026-10-26T09:59:32.313654Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:45.19"
+      },
+      "started_at_utc": "2026-10-26T09:59:32.315556Z",
+      "completed_at_utc": "2026-10-26T09:59:32.687905Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:46.5"
+      },
+      "started_at_utc": "2026-10-26T09:59:32.690956Z",
+      "completed_at_utc": "2026-10-26T09:59:32.810411Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:47.12"
+      },
+      "started_at_utc": "2026-10-26T09:59:32.812982Z",
+      "completed_at_utc": "2026-10-26T09:59:32.938791Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:47.24"
+      },
+      "started_at_utc": "2026-10-26T09:59:32.940899Z",
+      "completed_at_utc": "2026-10-26T09:59:33.056739Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:50.8"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.059093Z",
+      "completed_at_utc": "2026-10-26T09:59:33.179277Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:50.21"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.181465Z",
+      "completed_at_utc": "2026-10-26T09:59:33.298646Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:10.10"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.300592Z",
+      "completed_at_utc": "2026-10-26T09:59:33.474161Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:10.24"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.476576Z",
+      "completed_at_utc": "2026-10-26T09:59:33.663172Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:12.37"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.665168Z",
+      "completed_at_utc": "2026-10-26T09:59:33.780726Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:14.3"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.782633Z",
+      "completed_at_utc": "2026-10-26T09:59:33.954046Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:14.31"
+      },
+      "started_at_utc": "2026-10-26T09:59:33.955876Z",
+      "completed_at_utc": "2026-10-26T09:59:34.074317Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:16.27"
+      },
+      "started_at_utc": "2026-10-26T09:59:34.076743Z",
+      "completed_at_utc": "2026-10-26T09:59:34.195838Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:31.9"
+      },
+      "started_at_utc": "2026-10-26T09:59:34.197855Z",
+      "completed_at_utc": "2026-10-26T09:59:34.311923Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:31.17"
+      },
+      "started_at_utc": "2026-10-26T09:59:34.313569Z",
+      "completed_at_utc": "2026-10-26T09:59:34.521156Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:31.18"
+      },
+      "started_at_utc": "2026-10-26T09:59:34.523859Z",
+      "completed_at_utc": "2026-10-26T09:59:34.640472Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:32.16"
+      },
+      "started_at_utc": "2026-10-26T09:59:34.643756Z",
+      "completed_at_utc": "2026-10-26T09:59:35.455762Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:32.17"
+      },
+      "started_at_utc": "2026-10-26T09:59:35.457550Z",
+      "completed_at_utc": "2026-10-26T09:59:35.573080Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:32.24"
+      },
+      "started_at_utc": "2026-10-26T09:59:35.574738Z",
+      "completed_at_utc": "2026-10-26T09:59:35.688911Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:32.26"
+      },
+      "started_at_utc": "2026-10-26T09:59:35.690839Z",
+      "completed_at_utc": "2026-10-26T09:59:35.805378Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:1.39"
+      },
+      "started_at_utc": "2026-10-26T09:59:35.807245Z",
+      "completed_at_utc": "2026-10-26T09:59:36.605516Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:2.34"
+      },
+      "started_at_utc": "2026-10-26T09:59:36.607217Z",
+      "completed_at_utc": "2026-10-26T09:59:37.664377Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.6"
+      },
+      "started_at_utc": "2026-10-26T09:59:37.666730Z",
+      "completed_at_utc": "2026-10-26T09:59:37.783834Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.19"
+      },
+      "started_at_utc": "2026-10-26T09:59:37.786187Z",
+      "completed_at_utc": "2026-10-26T09:59:37.956552Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:20.14"
+      },
+      "started_at_utc": "2026-10-26T09:59:37.958253Z",
+      "completed_at_utc": "2026-10-26T09:59:38.160984Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11"
+      },
+      "started_at_utc": "2026-10-26T09:59:38.162952Z",
+      "completed_at_utc": "2026-10-26T09:59:38.414559Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.12"
+      },
+      "started_at_utc": "2026-10-26T09:59:38.416474Z",
+      "completed_at_utc": "2026-10-26T09:59:38.549483Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:1.14"
+      },
+      "started_at_utc": "2026-10-26T09:59:38.551827Z",
+      "completed_at_utc": "2026-10-26T09:59:38.898561Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8"
+      },
+      "started_at_utc": "2026-10-26T09:59:38.900543Z",
+      "completed_at_utc": "2026-10-26T09:59:39.128929Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1:18.21"
+      },
+      "started_at_utc": "2026-10-26T09:59:39.130930Z",
+      "completed_at_utc": "2026-10-26T09:59:39.271394Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1:21.10"
+      },
+      "started_at_utc": "2026-10-26T09:59:39.273176Z",
+      "completed_at_utc": "2026-10-26T09:59:39.880948Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1:15.22"
+      },
+      "started_at_utc": "2026-10-26T09:59:39.882528Z",
+      "completed_at_utc": "2026-10-26T09:59:40.240301Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:40.7"
+      },
+      "started_at_utc": "2026-10-26T09:59:40.241987Z",
+      "completed_at_utc": "2026-10-26T09:59:40.464874Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:41.16"
+      },
+      "started_at_utc": "2026-10-26T09:59:40.466886Z",
+      "completed_at_utc": "2026-10-26T09:59:40.591730Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:43.6"
+      },
+      "started_at_utc": "2026-10-26T09:59:40.594975Z",
+      "completed_at_utc": "2026-10-26T09:59:42.414156Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:9.6"
+      },
+      "started_at_utc": "2026-10-26T09:59:42.415887Z",
+      "completed_at_utc": "2026-10-26T09:59:43.792015Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1:3.13"
+      },
+      "started_at_utc": "2026-10-26T09:59:43.794503Z",
+      "completed_at_utc": "2026-10-26T09:59:44.123882Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1:8.11"
+      },
+      "started_at_utc": "2026-10-26T09:59:44.126214Z",
+      "completed_at_utc": "2026-10-26T09:59:44.247205Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1:8.21"
+      },
+      "started_at_utc": "2026-10-26T09:59:44.249728Z",
+      "completed_at_utc": "2026-10-26T09:59:44.822031Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:20.13"
+      },
+      "started_at_utc": "2026-10-26T09:59:44.824047Z",
+      "completed_at_utc": "2026-10-26T09:59:45.014658Z",
+      "status": "returned"
+    },
+    {
+      "tool": "get_scaife_passage_text",
+      "arguments": {
+        "urn": "urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:31.18"
+      },
+      "started_at_utc": "2026-10-26T09:59:45.016375Z",
+      "completed_at_utc": "2026-10-26T09:59:45.128256Z",
+      "status": "returned"
+    }
+  ]
+}

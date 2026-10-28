@@ -1,0 +1,4 @@
+mcp==1.30.0
+perseus-mcp>=1.0.1
+pandas>=2.0
+jupyterlab>=4.0

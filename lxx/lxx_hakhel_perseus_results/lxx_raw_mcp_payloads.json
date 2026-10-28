@@ -1,0 +1,4847 @@
+{
+  "metadata": {
+    "lxx": {
+      "url": "/library/urn:cts:greekLit:tlg0527/",
+      "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+      "works": [
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg001/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg001/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg001/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg001",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg001.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg002/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg002/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg002/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg002",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg002.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg003/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg003/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg003/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg003",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg003.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg004/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg004/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg004/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg004",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg004.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg005",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg006",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg008/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg008/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg008/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg008",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg008.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg010/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg010/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg010/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg010",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg010.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg010.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg010.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg010.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg010.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg010.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg010.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg010.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg011/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg011/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg011/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg011",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg011.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg011.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg011.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg011.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg011.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg011.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg011.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg011.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg012/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg012/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg012/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg012",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg012.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg012.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg012.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg012.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg013/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg013/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg013/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg013",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg013.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg013.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg013.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg013.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg013.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg013.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg013.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg013.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg014/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg014/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg014/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg014",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg014.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg014.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg014.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg014.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg015/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg015/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg015/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg015",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg015.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg016/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg016/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg016/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg016",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg016.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg017/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg017/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg017/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg017",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg017.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg017.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg017.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg017.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg018/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg018/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg018/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg018",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg018.perseus-eng3/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg018.perseus-eng3/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg018.perseus-eng3/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg018.perseus-eng3"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg018.perseus-eng4/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg018.perseus-eng4/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg018.perseus-eng4/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg018.perseus-eng4"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg019/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg019/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg019/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg019",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg019.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg019.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg019.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg019.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg020/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg020/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg020/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg020",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg020.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg020.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg020.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg020.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg021/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg021/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg021/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg021",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg021.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg021.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg021.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg021.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg023/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg023/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg023/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg023",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg023.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg023.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg023.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg023.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg024/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg024/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg024/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg024",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg024.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg024.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg024.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg024.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg025/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg025/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg025/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg025",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg025.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg025.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg025.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg025.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg026/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg026/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg026/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg026",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg026.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg026.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg026.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg026.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg027/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg027/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg027/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg027",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg027.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg028/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg028/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg028/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg028",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg028.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg028.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg028.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg028.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg029/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg029/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg029/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg029",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg029.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg030/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg030/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg030/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg030",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg030.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg030.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg030.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg030.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg031/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg031/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg031/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg031",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg031.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg031.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg031.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg031.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg032/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg032/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg032/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg032",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg032.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg032.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg032.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg032.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg033/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg033/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg033/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg033",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg033.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg034/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg034/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg034/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg034",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg034.1st1K-grc2"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg034.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg035/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg035/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg035/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg035",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg035.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg035.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg035.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg035.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg036/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg036/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg036/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg036",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg036.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg036.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg036.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg036.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg036.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg037/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg037/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg037/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg037",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg037.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg037.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg037.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg037.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg038/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg038/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg038/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg038",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg038.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg038.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg038.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg038.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg039/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg039/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg039/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg039",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg039.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg039.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg039.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg039.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg039.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg040/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg040/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg040/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg040",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg040.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg040.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg040.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg040.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg041/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg041/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg041/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg041",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg041.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg041.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg041.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg041.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg041.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg041.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg041.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg041.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg042/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg042/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg042/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg042",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg042.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg042.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg042.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg042.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg042.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg043/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg043/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg043/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg043",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg043.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg043.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg043.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg043.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg043.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg044/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg044/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg044/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg044",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg044.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg044.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg044.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg044.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg045/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg045/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg045/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg045",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg045.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg045.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg045.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg045.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg045.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg045.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg045.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg045.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg046/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg046/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg046/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg046",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg046.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg046.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg046.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg046.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg047/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg047/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg047/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg047",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg047.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg047.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg047.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg047.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg048/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg048",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1b/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1b/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1b/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1b"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-mul1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-mul2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-mul2"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1a/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1a/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1a/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1a"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-grc2"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.perseus-eng2"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg048.1st1K-eng1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg049/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg049/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg049/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg049",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg049.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg050/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg050/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg050/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg050",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg050.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg050.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg050.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg050.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg051/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg051/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg051/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg051",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg051.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg051.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg051.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg051.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg051.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg052/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg052/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg052/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg052",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg052.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg052.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg052.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg052.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg053/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg053/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg053/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg053",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg053.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg054/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg054/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg054/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg054",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg054.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg054.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg054.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg054.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg055/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg055/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg055/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg055",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg055.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg055.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg055.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg055.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg056/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg056/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg056/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg056",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg056.1st1K-grc1"
+            },
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg056.perseus-eng2/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg056.perseus-eng2/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg056.perseus-eng2/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg056.perseus-eng2"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg057/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg057/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg057/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg057",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg057.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg058/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg058/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg058/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg058",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg058.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg058.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg058.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg058.1st1K-grc1"
+            }
+          ]
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg059/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg059/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg059/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg059",
+          "texts": [
+            {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg059.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg059.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg059.1st1K-grc1/text/",
+              "urn": "urn:cts:greekLit:tlg0527.tlg059.1st1K-grc1"
+            }
+          ]
+        }
+      ],
+      "urn": "urn:cts:greekLit:tlg0527",
+      "label": "Old Testament"
+    },
+    "deuteronomy": {
+      "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+      "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+      "texts": [
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1"
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg005.perseus-eng2"
+        }
+      ],
+      "urn": "urn:cts:greekLit:tlg0527.tlg005",
+      "label": "Deuteronomy"
+    },
+    "joshua": {
+      "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+      "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+      "texts": [
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1"
+        },
+        {
+          "url": "/library/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/",
+          "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/json/",
+          "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2/text/",
+          "urn": "urn:cts:greekLit:tlg0527.tlg006.perseus-eng2"
+        }
+      ],
+      "urn": "urn:cts:greekLit:tlg0527.tlg006",
+      "label": "Joshua"
+    }
+  },
+  "passages": {
+    "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12": {
+      "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12/",
+      "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12/text/",
+      "text": {
+        "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+        "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+        "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+        "ancestors": [
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+            "urn": "urn:cts:greekLit:tlg0527",
+            "label": "Old Testament"
+          },
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+            "urn": "urn:cts:greekLit:tlg0527.tlg005",
+            "label": "Deuteronomy"
+          }
+        ],
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+        "label": "Δευτερονόμιον",
+        "lang": "grc",
+        "human_lang": "Greek",
+        "kind": "edition"
+      },
+      "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.10-29.12",
+      "refs": {
+        "start": {
+          "reference": "29.10",
+          "human_reference": "Chapter 29 Verse 10"
+        },
+        "end": {
+          "reference": "29.12",
+          "human_reference": "Chapter 29 Verse 12"
+        }
+      },
+      "ancestors": [
+        {
+          "reference": "29"
+        }
+      ],
+      "children": [],
+      "text_html": "<div id=\"edition\" class=\"edition lang_grc\"><text-part class=\"chapter\" reference=\"29\"><text-part class=\"verse leaf o\" reference=\"29.10\"><p><t t=\"w\" w=\"Ὑμεῖς\" i=\"1\" o=\"0\">Ὑμεῖς</t> <t t=\"w\" w=\"ἑστήκατε\" i=\"1\" o=\"5\">ἑστήκατε</t> <t t=\"w\" w=\"πάντες\" i=\"1\" o=\"13\">πάντες</t> <t t=\"w\" w=\"σήμερον\" i=\"1\" o=\"19\">σήμερον</t> <t t=\"w\" w=\"ἐναντίον\" i=\"1\" o=\"26\">ἐναντίον</t> <t t=\"w\" w=\"κυρίου\" i=\"1\" o=\"34\">κυρίου</t> <t t=\"w\" w=\"τοῦ\" i=\"1\" o=\"40\">τοῦ</t> <t t=\"w\" w=\"θεοῦ\" i=\"1\" o=\"43\">θεοῦ</t> <t t=\"w\" w=\"ὑμῶν\" i=\"1\" o=\"47\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"1\" o=\"52\">,</t> <t t=\"w\" w=\"οἱ\" i=\"1\" o=\"53\">οἱ</t> <t t=\"w\" w=\"ἀρχίφυλοι\" i=\"1\" o=\"55\">ἀρχίφυλοι</t> <t t=\"w\" w=\"ὑμῶν\" i=\"2\" o=\"64\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"1\" o=\"68\">καὶ</t> <t t=\"w\" w=\"ἡ\" i=\"1\" o=\"71\">ἡ</t> <t t=\"w\" w=\"γερουσία\" i=\"1\" o=\"72\">γερουσία</t> <t t=\"w\" w=\"ὑμῶν\" i=\"3\" o=\"80\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"2\" o=\"84\">καὶ</t> <t t=\"w\" w=\"οἱ\" i=\"2\" o=\"87\">οἱ</t> <t t=\"w\" w=\"κριταὶ\" i=\"1\" o=\"89\">κριταὶ</t> <t t=\"w\" w=\"ὑμῶν\" i=\"4\" o=\"95\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"3\" o=\"99\">καὶ</t> <t t=\"w\" w=\"οἱ\" i=\"3\" o=\"102\">οἱ</t> <t t=\"w\" w=\"γραμματοεισαγωγεῖς\" i=\"1\" o=\"104\">γραμματοεισαγωγεῖς</t> <br> <br> <t t=\"w\" w=\"ὑμῶν\" i=\"5\" o=\"122\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"2\" o=\"127\">,</t> <t t=\"w\" w=\"πᾶς\" i=\"1\" o=\"128\">πᾶς</t> <t t=\"w\" w=\"ἀνὴρ\" i=\"1\" o=\"131\">ἀνὴρ</t> <t t=\"w\" w=\"Ἰσραήλ\" i=\"1\" o=\"135\">Ἰσραήλ</t><t t=\"p\" w=\"·\" i=\"1\" o=\"142\">·</t></p></text-part><text-part class=\"verse leaf o\" reference=\"29.11\"><p><t t=\"w\" w=\"αἱ\" i=\"1\" o=\"143\">αἱ</t> <t t=\"w\" w=\"γυναῖκες\" i=\"1\" o=\"145\">γυναῖκες</t> <t t=\"w\" w=\"ὑμῶν\" i=\"6\" o=\"153\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"4\" o=\"157\">καὶ</t> <t t=\"w\" w=\"τὰ\" i=\"1\" o=\"160\">τὰ</t> <t t=\"w\" w=\"ἔκγονα\" i=\"1\" o=\"162\">ἔκγονα</t> <t t=\"w\" w=\"ὑμῶν\" i=\"7\" o=\"168\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"5\" o=\"172\">καὶ</t> <t t=\"w\" w=\"ὁ\" i=\"1\" o=\"175\">ὁ</t> <t t=\"w\" w=\"προσήλυτος\" i=\"1\" o=\"176\">προσήλυτος</t> <t t=\"w\" w=\"ὁ\" i=\"2\" o=\"186\">ὁ</t> <t t=\"w\" w=\"ἐν\" i=\"2\" o=\"187\">ἐν</t> <t t=\"w\" w=\"μέσῳ\" i=\"1\" o=\"189\">μέσῳ</t> <t t=\"w\" w=\"τῆς\" i=\"1\" o=\"193\">τῆς</t> <t t=\"w\" w=\"παρεμβολῆς\" i=\"1\" o=\"196\">παρεμβολῆς</t> <t t=\"w\" w=\"ὑμῶν\" i=\"8\" o=\"206\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"3\" o=\"211\">,</t> <t t=\"w\" w=\"ἀπὸ\" i=\"1\" o=\"212\">ἀπὸ</t> <t t=\"w\" w=\"ξυλοπλοινοις\" i=\"1\" o=\"215\">ξυλοπλοινοις</t> <div class=\"milestone\"></div> <a xmlns:v-popover=\"v-popover\" class=\"note\" v-popover:bottom=\"\n        {content: `6 πλοινοις B* (πλοιοις B ab)  ἐν 2] pr καὶ Α  om η B  u Α  πραθήσεσθαι Α XXIX 1 οὑς] ἦς Α  Μωση] τὼ 2 τοὺς υἵους] om του Α  τοι, θεράπουσιν] pr πάσι Α 3 εωρα- Α  ἐκείνα]  τὴν χεῖρα τὴν κραταιὰν καὶ ’τον βραχίονα ’τον ὑψηλὸν B ab mg A 4 ἔδωκ’ bis scr A*  βλέπειν sup ras (seq ras 2 litt) Aa pr του Α  ὤτα] pr τὰ Α 5 τεσσεράκοντα ἔτη ἐν τῆ ἐρήμω (ετη sup ras pr ras i fort litt) A  τεσσαρακ. Bb  ἐπαλαιώθησαν Α 6 κύριος] pr οὕτος Α  om ἐγὼ Α 7 βάσαν] pr τῆς Α  υμιν] ἥμιν Α  πολέμω] pr τὼ Α 8 Α  Μαννασση Α 9 ταυτης]  ποιεῖν αὐτοὺς Α  ποιήσητε Α Α  ἔναντι Α 11 αἰ γυναῖκες] pr καὶ Α  ἔκγονα] τέκνα Α`, trigger: 'click'}\n      \">[*]</a> <div class=\"pb\">404</div> <a xmlns:v-popover=\"v-popover\" class=\"note\" v-popover:bottom=\"\n        {content: `B`, trigger: 'click'}\n      \">[*]</a> <t t=\"w\" w=\"κόπου\" i=\"1\" o=\"698\">κόπου</t> <t t=\"w\" w=\"ὑμῶν\" i=\"9\" o=\"703\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"9\" o=\"707\">καὶ</t> <t t=\"w\" w=\"ἕως\" i=\"1\" o=\"710\">ἕως</t> <t t=\"w\" w=\"ὑδροφόρου\" i=\"1\" o=\"713\">ὑδροφόρου</t> <t t=\"w\" w=\"ὑμῶν\" i=\"10\" o=\"722\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"5\" o=\"727\">,</t></p></text-part><text-part class=\"verse leaf o\" reference=\"29.12\"><p><t t=\"w\" w=\"παρελθεῖν\" i=\"1\" o=\"728\">παρελθεῖν</t> <t t=\"w\" w=\"ἐν\" i=\"5\" o=\"737\">ἐν</t> <t t=\"w\" w=\"τῇ\" i=\"1\" o=\"739\">τῇ</t> <t t=\"w\" w=\"διαθήκῃ\" i=\"1\" o=\"741\">διαθήκῃ</t> <br> <br> <t t=\"w\" w=\"κυρίου\" i=\"2\" o=\"748\">κυρίου</t> <t t=\"w\" w=\"τοῦ\" i=\"2\" o=\"754\">τοῦ</t> <t t=\"w\" w=\"θεοῦ\" i=\"2\" o=\"757\">θεοῦ</t> <t t=\"w\" w=\"ὑμῶν\" i=\"11\" o=\"761\">ὑμῶν</t> <t t=\"w\" w=\"καὶ\" i=\"10\" o=\"765\">καὶ</t> <t t=\"w\" w=\"ἐν\" i=\"6\" o=\"768\">ἐν</t> <t t=\"w\" w=\"ταῖς\" i=\"1\" o=\"770\">ταῖς</t> <t t=\"w\" w=\"ἀρίς\" i=\"1\" o=\"774\">ἀρίς</t> <t t=\"w\" w=\"αὐτοῦ\" i=\"1\" o=\"778\">αὐτοῦ</t><t t=\"p\" w=\",\" i=\"6\" o=\"784\">,</t> <t t=\"w\" w=\"ὅσα\" i=\"1\" o=\"785\">ὅσα</t> <t t=\"w\" w=\"κύριος\" i=\"2\" o=\"788\">κύριος</t> <t t=\"w\" w=\"ὁ\" i=\"3\" o=\"794\">ὁ</t> <t t=\"w\" w=\"θεός\" i=\"1\" o=\"795\">θεός</t> <t t=\"w\" w=\"σου\" i=\"1\" o=\"799\">σου</t> <t t=\"w\" w=\"διατίθεται\" i=\"1\" o=\"802\">διατίθεται</t> <t t=\"w\" w=\"πρὸς\" i=\"1\" o=\"812\">πρὸς</t> <t t=\"w\" w=\"σὲ\" i=\"1\" o=\"816\">σὲ</t> <t t=\"w\" w=\"σήμερον\" i=\"2\" o=\"818\">σήμερον</t><t t=\"p\" w=\"·\" i=\"2\" o=\"826\">·</t></p></text-part></text-part></div>\n",
+      "word_tokens": [
+        {
+          "w": "Ὑμεῖς",
+          "i": 1,
+          "t": "w",
+          "o": 5
+        },
+        {
+          "w": "ἑστήκατε",
+          "i": 1,
+          "t": "w",
+          "o": 13
+        },
+        {
+          "w": "πάντες",
+          "i": 1,
+          "t": "w",
+          "o": 19
+        },
+        {
+          "w": "σήμερον",
+          "i": 1,
+          "t": "w",
+          "o": 26
+        },
+        {
+          "w": "ἐναντίον",
+          "i": 1,
+          "t": "w",
+          "o": 34
+        },
+        {
+          "w": "κυρίου",
+          "i": 1,
+          "t": "w",
+          "o": 40
+        },
+        {
+          "w": "τοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 43
+        },
+        {
+          "w": "θεοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 47
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 1,
+          "t": "w",
+          "o": 51
+        },
+        {
+          "w": "οἱ",
+          "i": 1,
+          "t": "w",
+          "o": 54
+        },
+        {
+          "w": "ἀρχίφυλοι",
+          "i": 1,
+          "t": "w",
+          "o": 63
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 2,
+          "t": "w",
+          "o": 67
+        },
+        {
+          "w": "καὶ",
+          "i": 1,
+          "t": "w",
+          "o": 70
+        },
+        {
+          "w": "ἡ",
+          "i": 1,
+          "t": "w",
+          "o": 71
+        },
+        {
+          "w": "γερουσία",
+          "i": 1,
+          "t": "w",
+          "o": 79
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 3,
+          "t": "w",
+          "o": 83
+        },
+        {
+          "w": "καὶ",
+          "i": 2,
+          "t": "w",
+          "o": 86
+        },
+        {
+          "w": "οἱ",
+          "i": 2,
+          "t": "w",
+          "o": 88
+        },
+        {
+          "w": "κριταὶ",
+          "i": 1,
+          "t": "w",
+          "o": 94
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 4,
+          "t": "w",
+          "o": 98
+        },
+        {
+          "w": "καὶ",
+          "i": 3,
+          "t": "w",
+          "o": 101
+        },
+        {
+          "w": "οἱ",
+          "i": 3,
+          "t": "w",
+          "o": 103
+        },
+        {
+          "w": "γραμματοεισαγωγεῖς",
+          "i": 1,
+          "t": "w",
+          "o": 121
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 5,
+          "t": "w",
+          "o": 125
+        },
+        {
+          "w": "πᾶς",
+          "i": 1,
+          "t": "w",
+          "o": 129
+        },
+        {
+          "w": "ἀνὴρ",
+          "i": 1,
+          "t": "w",
+          "o": 133
+        },
+        {
+          "w": "Ἰσραήλ",
+          "i": 1,
+          "t": "w",
+          "o": 139
+        },
+        {
+          "w": "αἱ",
+          "i": 1,
+          "t": "w",
+          "o": 142
+        },
+        {
+          "w": "γυναῖκες",
+          "i": 1,
+          "t": "w",
+          "o": 150
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 6,
+          "t": "w",
+          "o": 154
+        },
+        {
+          "w": "καὶ",
+          "i": 4,
+          "t": "w",
+          "o": 157
+        },
+        {
+          "w": "τὰ",
+          "i": 1,
+          "t": "w",
+          "o": 159
+        },
+        {
+          "w": "ἔκγονα",
+          "i": 1,
+          "t": "w",
+          "o": 165
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 7,
+          "t": "w",
+          "o": 169
+        },
+        {
+          "w": "καὶ",
+          "i": 5,
+          "t": "w",
+          "o": 172
+        },
+        {
+          "w": "ὁ",
+          "i": 1,
+          "t": "w",
+          "o": 173
+        },
+        {
+          "w": "προσήλυτος",
+          "i": 1,
+          "t": "w",
+          "o": 183
+        },
+        {
+          "w": "ὁ",
+          "i": 2,
+          "t": "w",
+          "o": 184
+        },
+        {
+          "w": "ἐν",
+          "i": 2,
+          "t": "w",
+          "o": 186
+        },
+        {
+          "w": "μέσῳ",
+          "i": 1,
+          "t": "w",
+          "o": 190
+        },
+        {
+          "w": "τῆς",
+          "i": 1,
+          "t": "w",
+          "o": 193
+        },
+        {
+          "w": "παρεμβολῆς",
+          "i": 1,
+          "t": "w",
+          "o": 203
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 8,
+          "t": "w",
+          "o": 207
+        },
+        {
+          "w": "ἀπὸ",
+          "i": 1,
+          "t": "w",
+          "o": 211
+        },
+        {
+          "w": "ξυλοπλοινοις",
+          "i": 1,
+          "t": "w",
+          "o": 223
+        },
+        {
+          "w": "6",
+          "i": 1,
+          "t": "w",
+          "o": 224
+        },
+        {
+          "w": "πλοιν",
+          "i": 2,
+          "t": "w",
+          "o": 229
+        },
+        {
+          "w": "οις",
+          "i": 2,
+          "t": "w",
+          "o": 232
+        },
+        {
+          "w": "B",
+          "i": 1,
+          "t": "w",
+          "o": 233
+        },
+        {
+          "w": "πλοιοις",
+          "i": 1,
+          "t": "w",
+          "o": 242
+        },
+        {
+          "w": "B",
+          "i": 2,
+          "t": "w",
+          "o": 243
+        },
+        {
+          "w": "ab",
+          "i": 1,
+          "t": "w",
+          "o": 245
+        },
+        {
+          "w": "ἐν",
+          "i": 3,
+          "t": "w",
+          "o": 248
+        },
+        {
+          "w": "2",
+          "i": 1,
+          "t": "w",
+          "o": 249
+        },
+        {
+          "w": "pr",
+          "i": 1,
+          "t": "w",
+          "o": 252
+        },
+        {
+          "w": "καὶ",
+          "i": 6,
+          "t": "w",
+          "o": 255
+        },
+        {
+          "w": "Α",
+          "i": 1,
+          "t": "w",
+          "o": 256
+        },
+        {
+          "w": "om",
+          "i": 1,
+          "t": "w",
+          "o": 258
+        },
+        {
+          "w": "η",
+          "i": 1,
+          "t": "w",
+          "o": 259
+        },
+        {
+          "w": "B",
+          "i": 3,
+          "t": "w",
+          "o": 260
+        },
+        {
+          "w": "u",
+          "i": 1,
+          "t": "w",
+          "o": 261
+        },
+        {
+          "w": "Α",
+          "i": 2,
+          "t": "w",
+          "o": 262
+        },
+        {
+          "w": "πραθήσεσθαι",
+          "i": 1,
+          "t": "w",
+          "o": 273
+        },
+        {
+          "w": "Α",
+          "i": 3,
+          "t": "w",
+          "o": 274
+        },
+        {
+          "w": "XXIX",
+          "i": 1,
+          "t": "w",
+          "o": 278
+        },
+        {
+          "w": "1",
+          "i": 1,
+          "t": "w",
+          "o": 279
+        },
+        {
+          "w": "οὑς",
+          "i": 1,
+          "t": "w",
+          "o": 282
+        },
+        {
+          "w": "ἦς",
+          "i": 1,
+          "t": "w",
+          "o": 285
+        },
+        {
+          "w": "Α",
+          "i": 4,
+          "t": "w",
+          "o": 286
+        },
+        {
+          "w": "Μωση",
+          "i": 1,
+          "t": "w",
+          "o": 290
+        },
+        {
+          "w": "τὼ",
+          "i": 1,
+          "t": "w",
+          "o": 293
+        },
+        {
+          "w": "2",
+          "i": 2,
+          "t": "w",
+          "o": 294
+        },
+        {
+          "w": "τοὺς",
+          "i": 1,
+          "t": "w",
+          "o": 298
+        },
+        {
+          "w": "υἵους",
+          "i": 1,
+          "t": "w",
+          "o": 303
+        },
+        {
+          "w": "om",
+          "i": 2,
+          "t": "w",
+          "o": 306
+        },
+        {
+          "w": "του",
+          "i": 1,
+          "t": "w",
+          "o": 309
+        },
+        {
+          "w": "Α",
+          "i": 5,
+          "t": "w",
+          "o": 310
+        },
+        {
+          "w": "τοι",
+          "i": 1,
+          "t": "w",
+          "o": 313
+        },
+        {
+          "w": "θεράπουσιν",
+          "i": 1,
+          "t": "w",
+          "o": 324
+        },
+        {
+          "w": "pr",
+          "i": 2,
+          "t": "w",
+          "o": 327
+        },
+        {
+          "w": "πάσι",
+          "i": 1,
+          "t": "w",
+          "o": 331
+        },
+        {
+          "w": "Α",
+          "i": 6,
+          "t": "w",
+          "o": 332
+        },
+        {
+          "w": "3",
+          "i": 1,
+          "t": "w",
+          "o": 333
+        },
+        {
+          "w": "εωρα-",
+          "i": 1,
+          "t": "w",
+          "o": 338
+        },
+        {
+          "w": "Α",
+          "i": 7,
+          "t": "w",
+          "o": 339
+        },
+        {
+          "w": "ἐκείνα",
+          "i": 1,
+          "t": "w",
+          "o": 345
+        },
+        {
+          "w": "τὴν",
+          "i": 1,
+          "t": "w",
+          "o": 349
+        },
+        {
+          "w": "χεῖρα",
+          "i": 1,
+          "t": "w",
+          "o": 354
+        },
+        {
+          "w": "τὴν",
+          "i": 2,
+          "t": "w",
+          "o": 357
+        },
+        {
+          "w": "κραταιὰν",
+          "i": 1,
+          "t": "w",
+          "o": 365
+        },
+        {
+          "w": "καὶ",
+          "i": 7,
+          "t": "w",
+          "o": 368
+        },
+        {
+          "w": "τον",
+          "i": 1,
+          "t": "w",
+          "o": 372
+        },
+        {
+          "w": "βραχίονα",
+          "i": 1,
+          "t": "w",
+          "o": 380
+        },
+        {
+          "w": "τον",
+          "i": 2,
+          "t": "w",
+          "o": 384
+        },
+        {
+          "w": "ὑψηλὸν",
+          "i": 1,
+          "t": "w",
+          "o": 390
+        },
+        {
+          "w": "B",
+          "i": 4,
+          "t": "w",
+          "o": 391
+        },
+        {
+          "w": "ab",
+          "i": 2,
+          "t": "w",
+          "o": 393
+        },
+        {
+          "w": "mg",
+          "i": 1,
+          "t": "w",
+          "o": 395
+        },
+        {
+          "w": "A",
+          "i": 1,
+          "t": "w",
+          "o": 396
+        },
+        {
+          "w": "4",
+          "i": 1,
+          "t": "w",
+          "o": 397
+        },
+        {
+          "w": "ἔδωκ",
+          "i": 1,
+          "t": "w",
+          "o": 401
+        },
+        {
+          "w": "bis",
+          "i": 1,
+          "t": "w",
+          "o": 405
+        },
+        {
+          "w": "scr",
+          "i": 1,
+          "t": "w",
+          "o": 408
+        },
+        {
+          "w": "A",
+          "i": 2,
+          "t": "w",
+          "o": 409
+        },
+        {
+          "w": "βλέπειν",
+          "i": 1,
+          "t": "w",
+          "o": 417
+        },
+        {
+          "w": "sup",
+          "i": 1,
+          "t": "w",
+          "o": 420
+        },
+        {
+          "w": "ras",
+          "i": 1,
+          "t": "w",
+          "o": 423
+        },
+        {
+          "w": "seq",
+          "i": 1,
+          "t": "w",
+          "o": 427
+        },
+        {
+          "w": "ras",
+          "i": 2,
+          "t": "w",
+          "o": 430
+        },
+        {
+          "w": "2",
+          "i": 3,
+          "t": "w",
+          "o": 431
+        },
+        {
+          "w": "litt",
+          "i": 1,
+          "t": "w",
+          "o": 435
+        },
+        {
+          "w": "Aa",
+          "i": 1,
+          "t": "w",
+          "o": 438
+        },
+        {
+          "w": "pr",
+          "i": 3,
+          "t": "w",
+          "o": 440
+        },
+        {
+          "w": "του",
+          "i": 2,
+          "t": "w",
+          "o": 443
+        },
+        {
+          "w": "Α",
+          "i": 8,
+          "t": "w",
+          "o": 444
+        },
+        {
+          "w": "ὤτα",
+          "i": 1,
+          "t": "w",
+          "o": 447
+        },
+        {
+          "w": "pr",
+          "i": 4,
+          "t": "w",
+          "o": 450
+        },
+        {
+          "w": "τὰ",
+          "i": 2,
+          "t": "w",
+          "o": 452
+        },
+        {
+          "w": "Α",
+          "i": 9,
+          "t": "w",
+          "o": 453
+        },
+        {
+          "w": "5",
+          "i": 1,
+          "t": "w",
+          "o": 454
+        },
+        {
+          "w": "τεσσεράκοντα",
+          "i": 1,
+          "t": "w",
+          "o": 466
+        },
+        {
+          "w": "ἔτη",
+          "i": 1,
+          "t": "w",
+          "o": 469
+        },
+        {
+          "w": "ἐν",
+          "i": 4,
+          "t": "w",
+          "o": 471
+        },
+        {
+          "w": "τῆ",
+          "i": 2,
+          "t": "w",
+          "o": 473
+        },
+        {
+          "w": "ἐρήμω",
+          "i": 1,
+          "t": "w",
+          "o": 478
+        },
+        {
+          "w": "ετη",
+          "i": 1,
+          "t": "w",
+          "o": 482
+        },
+        {
+          "w": "sup",
+          "i": 2,
+          "t": "w",
+          "o": 485
+        },
+        {
+          "w": "ras",
+          "i": 3,
+          "t": "w",
+          "o": 488
+        },
+        {
+          "w": "pr",
+          "i": 5,
+          "t": "w",
+          "o": 490
+        },
+        {
+          "w": "ras",
+          "i": 4,
+          "t": "w",
+          "o": 493
+        },
+        {
+          "w": "i",
+          "i": 3,
+          "t": "w",
+          "o": 494
+        },
+        {
+          "w": "fort",
+          "i": 1,
+          "t": "w",
+          "o": 498
+        },
+        {
+          "w": "litt",
+          "i": 2,
+          "t": "w",
+          "o": 502
+        },
+        {
+          "w": "A",
+          "i": 4,
+          "t": "w",
+          "o": 504
+        },
+        {
+          "w": "τεσσαρακ",
+          "i": 1,
+          "t": "w",
+          "o": 512
+        },
+        {
+          "w": "Bb",
+          "i": 1,
+          "t": "w",
+          "o": 515
+        },
+        {
+          "w": "ἐπαλαιώθησαν",
+          "i": 1,
+          "t": "w",
+          "o": 527
+        },
+        {
+          "w": "Α",
+          "i": 10,
+          "t": "w",
+          "o": 528
+        },
+        {
+          "w": "6",
+          "i": 2,
+          "t": "w",
+          "o": 529
+        },
+        {
+          "w": "κύριος",
+          "i": 1,
+          "t": "w",
+          "o": 535
+        },
+        {
+          "w": "pr",
+          "i": 6,
+          "t": "w",
+          "o": 538
+        },
+        {
+          "w": "οὕτος",
+          "i": 1,
+          "t": "w",
+          "o": 543
+        },
+        {
+          "w": "Α",
+          "i": 11,
+          "t": "w",
+          "o": 544
+        },
+        {
+          "w": "om",
+          "i": 3,
+          "t": "w",
+          "o": 546
+        },
+        {
+          "w": "ἐγὼ",
+          "i": 1,
+          "t": "w",
+          "o": 549
+        },
+        {
+          "w": "Α",
+          "i": 12,
+          "t": "w",
+          "o": 550
+        },
+        {
+          "w": "7",
+          "i": 1,
+          "t": "w",
+          "o": 551
+        },
+        {
+          "w": "βάσαν",
+          "i": 1,
+          "t": "w",
+          "o": 556
+        },
+        {
+          "w": "pr",
+          "i": 7,
+          "t": "w",
+          "o": 559
+        },
+        {
+          "w": "τῆς",
+          "i": 2,
+          "t": "w",
+          "o": 562
+        },
+        {
+          "w": "Α",
+          "i": 13,
+          "t": "w",
+          "o": 563
+        },
+        {
+          "w": "υμιν",
+          "i": 1,
+          "t": "w",
+          "o": 567
+        },
+        {
+          "w": "ἥμιν",
+          "i": 1,
+          "t": "w",
+          "o": 572
+        },
+        {
+          "w": "Α",
+          "i": 14,
+          "t": "w",
+          "o": 573
+        },
+        {
+          "w": "πολέμω",
+          "i": 1,
+          "t": "w",
+          "o": 579
+        },
+        {
+          "w": "pr",
+          "i": 8,
+          "t": "w",
+          "o": 582
+        },
+        {
+          "w": "τὼ",
+          "i": 2,
+          "t": "w",
+          "o": 584
+        },
+        {
+          "w": "Α",
+          "i": 15,
+          "t": "w",
+          "o": 585
+        },
+        {
+          "w": "8",
+          "i": 1,
+          "t": "w",
+          "o": 586
+        },
+        {
+          "w": "Α",
+          "i": 16,
+          "t": "w",
+          "o": 587
+        },
+        {
+          "w": "Μαννασση",
+          "i": 1,
+          "t": "w",
+          "o": 595
+        },
+        {
+          "w": "Α",
+          "i": 17,
+          "t": "w",
+          "o": 596
+        },
+        {
+          "w": "9",
+          "i": 1,
+          "t": "w",
+          "o": 597
+        },
+        {
+          "w": "ταυτης",
+          "i": 1,
+          "t": "w",
+          "o": 603
+        },
+        {
+          "w": "ποιεῖν",
+          "i": 1,
+          "t": "w",
+          "o": 610
+        },
+        {
+          "w": "αὐτοὺς",
+          "i": 1,
+          "t": "w",
+          "o": 616
+        },
+        {
+          "w": "Α",
+          "i": 18,
+          "t": "w",
+          "o": 617
+        },
+        {
+          "w": "ποιήσητε",
+          "i": 1,
+          "t": "w",
+          "o": 625
+        },
+        {
+          "w": "Α",
+          "i": 19,
+          "t": "w",
+          "o": 626
+        },
+        {
+          "w": "Α",
+          "i": 20,
+          "t": "w",
+          "o": 627
+        },
+        {
+          "w": "ἔναντι",
+          "i": 1,
+          "t": "w",
+          "o": 633
+        },
+        {
+          "w": "Α",
+          "i": 21,
+          "t": "w",
+          "o": 634
+        },
+        {
+          "w": "11",
+          "i": 1,
+          "t": "w",
+          "o": 636
+        },
+        {
+          "w": "αἰ",
+          "i": 1,
+          "t": "w",
+          "o": 638
+        },
+        {
+          "w": "γυναῖκες",
+          "i": 2,
+          "t": "w",
+          "o": 646
+        },
+        {
+          "w": "pr",
+          "i": 9,
+          "t": "w",
+          "o": 649
+        },
+        {
+          "w": "καὶ",
+          "i": 8,
+          "t": "w",
+          "o": 652
+        },
+        {
+          "w": "Α",
+          "i": 22,
+          "t": "w",
+          "o": 653
+        },
+        {
+          "w": "ἔκγονα",
+          "i": 2,
+          "t": "w",
+          "o": 659
+        },
+        {
+          "w": "τέκνα",
+          "i": 1,
+          "t": "w",
+          "o": 665
+        },
+        {
+          "w": "Α",
+          "i": 23,
+          "t": "w",
+          "o": 666
+        },
+        {
+          "w": "B",
+          "i": 6,
+          "t": "w",
+          "o": 667
+        },
+        {
+          "w": "κόπου",
+          "i": 1,
+          "t": "w",
+          "o": 672
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 9,
+          "t": "w",
+          "o": 676
+        },
+        {
+          "w": "καὶ",
+          "i": 9,
+          "t": "w",
+          "o": 679
+        },
+        {
+          "w": "ἕως",
+          "i": 1,
+          "t": "w",
+          "o": 682
+        },
+        {
+          "w": "ὑδροφόρου",
+          "i": 1,
+          "t": "w",
+          "o": 691
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 10,
+          "t": "w",
+          "o": 695
+        },
+        {
+          "w": "παρελθεῖν",
+          "i": 1,
+          "t": "w",
+          "o": 705
+        },
+        {
+          "w": "ἐν",
+          "i": 5,
+          "t": "w",
+          "o": 707
+        },
+        {
+          "w": "τῇ",
+          "i": 1,
+          "t": "w",
+          "o": 709
+        },
+        {
+          "w": "διαθήκῃ",
+          "i": 1,
+          "t": "w",
+          "o": 716
+        },
+        {
+          "w": "κυρίου",
+          "i": 2,
+          "t": "w",
+          "o": 722
+        },
+        {
+          "w": "τοῦ",
+          "i": 2,
+          "t": "w",
+          "o": 725
+        },
+        {
+          "w": "θεοῦ",
+          "i": 2,
+          "t": "w",
+          "o": 729
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 11,
+          "t": "w",
+          "o": 733
+        },
+        {
+          "w": "καὶ",
+          "i": 10,
+          "t": "w",
+          "o": 736
+        },
+        {
+          "w": "ἐν",
+          "i": 6,
+          "t": "w",
+          "o": 738
+        },
+        {
+          "w": "ταῖς",
+          "i": 1,
+          "t": "w",
+          "o": 742
+        },
+        {
+          "w": "ἀρίς",
+          "i": 1,
+          "t": "w",
+          "o": 746
+        },
+        {
+          "w": "αὐτοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 751
+        },
+        {
+          "w": "ὅσα",
+          "i": 1,
+          "t": "w",
+          "o": 755
+        },
+        {
+          "w": "κύριος",
+          "i": 2,
+          "t": "w",
+          "o": 761
+        },
+        {
+          "w": "ὁ",
+          "i": 3,
+          "t": "w",
+          "o": 762
+        },
+        {
+          "w": "θεός",
+          "i": 1,
+          "t": "w",
+          "o": 766
+        },
+        {
+          "w": "σου",
+          "i": 1,
+          "t": "w",
+          "o": 769
+        },
+        {
+          "w": "διατίθεται",
+          "i": 1,
+          "t": "w",
+          "o": 779
+        },
+        {
+          "w": "πρὸς",
+          "i": 1,
+          "t": "w",
+          "o": 783
+        },
+        {
+          "w": "σὲ",
+          "i": 1,
+          "t": "w",
+          "o": 785
+        },
+        {
+          "w": "σήμερον",
+          "i": 2,
+          "t": "w",
+          "o": 792
+        }
+      ]
+    },
+    "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13": {
+      "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13/",
+      "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13/text/",
+      "text": {
+        "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+        "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+        "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+        "ancestors": [
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+            "urn": "urn:cts:greekLit:tlg0527",
+            "label": "Old Testament"
+          },
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+            "urn": "urn:cts:greekLit:tlg0527.tlg005",
+            "label": "Deuteronomy"
+          }
+        ],
+        "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+        "label": "Δευτερονόμιον",
+        "lang": "grc",
+        "human_lang": "Greek",
+        "kind": "edition"
+      },
+      "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.10-31.13",
+      "refs": {
+        "start": {
+          "reference": "31.10",
+          "human_reference": "Chapter 31 Verse 10"
+        },
+        "end": {
+          "reference": "31.13",
+          "human_reference": "Chapter 31 Verse 13"
+        }
+      },
+      "ancestors": [
+        {
+          "reference": "31"
+        }
+      ],
+      "children": [],
+      "text_html": "<div id=\"edition\" class=\"edition lang_grc\"><text-part class=\"chapter\" reference=\"31\"><text-part class=\"verse leaf o\" reference=\"31.10\"><p><t t=\"w\" w=\"καὶ\" i=\"1\" o=\"0\">καὶ</t> <t t=\"w\" w=\"ἐνετείλατο\" i=\"1\" o=\"3\">ἐνετείλατο</t> <t t=\"w\" w=\"αὐτοῖς\" i=\"1\" o=\"13\">αὐτοῖς</t> <t t=\"w\" w=\"Μωυσῆς\" i=\"1\" o=\"19\">Μωυσῆς</t> <t t=\"w\" w=\"ἐν\" i=\"2\" o=\"25\">ἐν</t> <t t=\"w\" w=\"τῇ\" i=\"1\" o=\"27\">τῇ</t> <t t=\"w\" w=\"ἡμέρᾳ\" i=\"1\" o=\"29\">ἡμέρᾳ</t> <t t=\"w\" w=\"ἐκείνῃ\" i=\"1\" o=\"34\">ἐκείνῃ</t> <t t=\"w\" w=\"λέγων\" i=\"1\" o=\"40\">λέγων</t> <t t=\"w\" w=\"Μετὰ\" i=\"1\" o=\"45\">Μετὰ</t> <t t=\"w\" w=\"ἑπτὰ\" i=\"1\" o=\"49\">ἑπτὰ</t> <br> <t t=\"w\" w=\"ἔτη\" i=\"1\" o=\"53\">ἔτη</t> <t t=\"w\" w=\"ἐν\" i=\"3\" o=\"56\">ἐν</t> <t t=\"w\" w=\"καιρῷ\" i=\"1\" o=\"58\">καιρῷ</t> <t t=\"w\" w=\"ἐνιαυτοῦ\" i=\"1\" o=\"63\">ἐνιαυτοῦ</t> <t t=\"w\" w=\"ἀφέσεως\" i=\"1\" o=\"71\">ἀφέσεως</t> <t t=\"w\" w=\"ἐν\" i=\"5\" o=\"78\">ἐν</t> <t t=\"w\" w=\"ἑορτῇ\" i=\"1\" o=\"80\">ἑορτῇ</t> <t t=\"w\" w=\"σκηνοπηγίας\" i=\"1\" o=\"85\">σκηνοπηγίας</t><t t=\"p\" w=\",\" i=\"1\" o=\"97\">,</t></p></text-part><text-part class=\"verse leaf o\" reference=\"31.11\"><p><t t=\"w\" w=\"ἐν\" i=\"6\" o=\"98\">ἐν</t> <t t=\"w\" w=\"τῷ\" i=\"1\" o=\"100\">τῷ</t> <t t=\"w\" w=\"συνπορεύεσθαι\" i=\"1\" o=\"102\">συνπορεύεσθαι</t> <br> <t t=\"w\" w=\"πάντα\" i=\"1\" o=\"115\">πάντα</t> <t t=\"w\" w=\"Ἰσραὴλ\" i=\"1\" o=\"120\">Ἰσραὴλ</t> <t t=\"w\" w=\"ὀφθῆναι\" i=\"1\" o=\"126\">ὀφθῆναι</t> <t t=\"w\" w=\"ἐνώπιον\" i=\"1\" o=\"133\">ἐνώπιον</t> <t t=\"w\" w=\"κυρίου\" i=\"1\" o=\"140\">κυρίου</t> <t t=\"w\" w=\"τοῦ\" i=\"2\" o=\"146\">τοῦ</t> <t t=\"w\" w=\"θεοῦ\" i=\"1\" o=\"149\">θεοῦ</t> <t t=\"w\" w=\"ὑμῶν\" i=\"1\" o=\"153\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"2\" o=\"158\">,</t> <t t=\"w\" w=\"ἐν\" i=\"8\" o=\"159\">ἐν</t> <t t=\"w\" w=\"τῶ\" i=\"1\" o=\"161\">τῶ</t> <t t=\"w\" w=\"τόπῳ\" i=\"1\" o=\"163\">τόπῳ</t> <t t=\"w\" w=\"ᾧ\" i=\"1\" o=\"167\">ᾧ</t> <t t=\"w\" w=\"ἂν\" i=\"1\" o=\"168\">ἂν</t> <t t=\"w\" w=\"ἐκλέξηται\" i=\"1\" o=\"170\">ἐκλέξηται</t> <t t=\"w\" w=\"κύριος\" i=\"1\" o=\"179\">κύριος</t><t t=\"p\" w=\",\" i=\"3\" o=\"186\">,</t> <t t=\"w\" w=\"ἀναγνώσεσθε\" i=\"1\" o=\"187\">ἀναγνώσεσθε</t> <t t=\"w\" w=\"τὸν\" i=\"1\" o=\"198\">τὸν</t> <t t=\"w\" w=\"νόμον\" i=\"1\" o=\"201\">νόμον</t> <t t=\"w\" w=\"τοῦτον\" i=\"1\" o=\"206\">τοῦτον</t> <t t=\"w\" w=\"ἐναντίον\" i=\"1\" o=\"212\">ἐναντίον</t> <t t=\"w\" w=\"παντὸς\" i=\"1\" o=\"220\">παντὸς</t> <t t=\"w\" w=\"Ἰσραὴλ\" i=\"2\" o=\"226\">Ἰσραὴλ</t> <t t=\"w\" w=\"εἰς\" i=\"1\" o=\"232\">εἰς</t> <t t=\"w\" w=\"τὰ\" i=\"3\" o=\"235\">τὰ</t> <t t=\"w\" w=\"ὦτα\" i=\"1\" o=\"237\">ὦτα</t> <t t=\"w\" w=\"αὐτῶν\" i=\"1\" o=\"240\">αὐτῶν</t><t t=\"p\" w=\"·\" i=\"1\" o=\"246\">·</t></p></text-part><text-part class=\"verse leaf o\" reference=\"31.12\"><p><t t=\"w\" w=\"ἐκκλησιάσας\" i=\"1\" o=\"247\">ἐκκλησιάσας</t> <t t=\"w\" w=\"τὸν\" i=\"2\" o=\"258\">τὸν</t> <t t=\"w\" w=\"λαόν\" i=\"1\" o=\"261\">λαόν</t><t t=\"p\" w=\",\" i=\"4\" o=\"266\">,</t> <br> <t t=\"w\" w=\"τοὺς\" i=\"1\" o=\"267\">τοὺς</t> <t t=\"w\" w=\"ἄνδρας\" i=\"1\" o=\"271\">ἄνδρας</t> <t t=\"w\" w=\"καὶ\" i=\"2\" o=\"277\">καὶ</t> <t t=\"w\" w=\"τὰς\" i=\"1\" o=\"280\">τὰς</t> <t t=\"w\" w=\"γυναῖκας\" i=\"1\" o=\"283\">γυναῖκας</t> <t t=\"w\" w=\"καὶ\" i=\"3\" o=\"291\">καὶ</t> <t t=\"w\" w=\"τὰ\" i=\"5\" o=\"294\">τὰ</t> <t t=\"w\" w=\"ἔκγονα\" i=\"1\" o=\"296\">ἔκγονα</t> <t t=\"w\" w=\"καὶ\" i=\"4\" o=\"302\">καὶ</t> <t t=\"w\" w=\"τὸν\" i=\"3\" o=\"305\">τὸν</t> <t t=\"w\" w=\"προσήλυτον\" i=\"1\" o=\"308\">προσήλυτον</t> <t t=\"w\" w=\"τὸν\" i=\"4\" o=\"318\">τὸν</t> <t t=\"w\" w=\"ἐν\" i=\"10\" o=\"321\">ἐν</t> <t t=\"w\" w=\"ταῖς\" i=\"1\" o=\"323\">ταῖς</t> <t t=\"w\" w=\"πόλεσιν\" i=\"1\" o=\"327\">πόλεσιν</t> <t t=\"w\" w=\"ὑμῶν\" i=\"2\" o=\"334\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"5\" o=\"339\">,</t> <t t=\"w\" w=\"ἵνα\" i=\"1\" o=\"340\">ἵνα</t> <t t=\"w\" w=\"ἀκούσωσιν\" i=\"1\" o=\"343\">ἀκούσωσιν</t> <t t=\"w\" w=\"καὶ\" i=\"5\" o=\"352\">καὶ</t> <t t=\"w\" w=\"ἵνα\" i=\"2\" o=\"355\">ἵνα</t> <t t=\"w\" w=\"μάθωσιν\" i=\"1\" o=\"358\">μάθωσιν</t> <t t=\"w\" w=\"φοβεῖσθαι\" i=\"1\" o=\"365\">φοβεῖσθαι</t> <t t=\"w\" w=\"Τύριον\" i=\"1\" o=\"374\">Τύριον</t> <t t=\"w\" w=\"τὸν\" i=\"5\" o=\"380\">τὸν</t> <t t=\"w\" w=\"θεὸν\" i=\"1\" o=\"383\">θεὸν</t> <t t=\"w\" w=\"ὑμῶν\" i=\"3\" o=\"387\">ὑμῶν</t><t t=\"p\" w=\",\" i=\"6\" o=\"392\">,</t> <t t=\"w\" w=\"καὶ\" i=\"6\" o=\"393\">καὶ</t> <t t=\"w\" w=\"ἀκούσονται\" i=\"1\" o=\"396\">ἀκούσονται</t> <t t=\"w\" w=\"ποιεῖν\" i=\"1\" o=\"406\">ποιεῖν</t> <t t=\"w\" w=\"πάντας\" i=\"1\" o=\"412\">πάντας</t> <t t=\"w\" w=\"τοὺς\" i=\"2\" o=\"418\">τοὺς</t> <t t=\"w\" w=\"λόγους\" i=\"1\" o=\"422\">λόγους</t> <t t=\"w\" w=\"τοῦ\" i=\"4\" o=\"428\">τοῦ</t> <t t=\"w\" w=\"νόμου\" i=\"1\" o=\"431\">νόμου</t> <t t=\"w\" w=\"τούτου\" i=\"1\" o=\"436\">τούτου</t><t t=\"p\" w=\"·\" i=\"2\" o=\"443\">·</t></p></text-part><text-part class=\"verse leaf o\" reference=\"31.13\"><p><t t=\"w\" w=\"καὶ\" i=\"7\" o=\"444\">καὶ</t> <t t=\"w\" w=\"οἱ\" i=\"1\" o=\"447\">οἱ</t> <t t=\"w\" w=\"υἱοὶ\" i=\"1\" o=\"449\">υἱοὶ</t> <t t=\"w\" w=\"αὐτῶν\" i=\"2\" o=\"453\">αὐτῶν</t> <t t=\"w\" w=\"οἳ\" i=\"1\" o=\"458\">οἳ</t> <t t=\"w\" w=\"οὐκ\" i=\"1\" o=\"460\">οὐκ</t> <t t=\"w\" w=\"οἴδασιν\" i=\"1\" o=\"463\">οἴδασιν</t> <t t=\"w\" w=\"ἀκούσονται\" i=\"2\" o=\"470\">ἀκούσονται</t><t t=\"p\" w=\",\" i=\"7\" o=\"481\">,</t> <t t=\"w\" w=\"καὶ\" i=\"8\" o=\"482\">καὶ</t> <br> <t t=\"w\" w=\"μαθήσονται\" i=\"1\" o=\"485\">μαθήσονται</t> <t t=\"w\" w=\"φοβεῖσθαι\" i=\"2\" o=\"495\">φοβεῖσθαι</t> <t t=\"w\" w=\"κύριον\" i=\"1\" o=\"504\">κύριον</t> <t t=\"w\" w=\"τὸν\" i=\"6\" o=\"510\">τὸν</t> <t t=\"w\" w=\"θεόν\" i=\"1\" o=\"513\">θεόν</t> <t t=\"w\" w=\"σου\" i=\"1\" o=\"517\">σου</t> <t t=\"w\" w=\"πάσας\" i=\"1\" o=\"520\">πάσας</t> <t t=\"w\" w=\"τὰς\" i=\"2\" o=\"525\">τὰς</t> <t t=\"w\" w=\"ἡμέρας\" i=\"1\" o=\"528\">ἡμέρας</t> <t t=\"w\" w=\"ὅσας\" i=\"1\" o=\"534\">ὅσας</t> <t t=\"w\" w=\"αὐτοὶ\" i=\"1\" o=\"538\">αὐτοὶ</t> <t t=\"w\" w=\"ζῶσιν\" i=\"1\" o=\"543\">ζῶσιν</t> <t t=\"w\" w=\"ἐπὶ\" i=\"1\" o=\"548\">ἐπὶ</t> <t t=\"w\" w=\"τῆς\" i=\"1\" o=\"551\">τῆς</t> <t t=\"w\" w=\"γῆς\" i=\"1\" o=\"554\">γῆς</t> <t t=\"w\" w=\"εἰς\" i=\"2\" o=\"557\">εἰς</t> <t t=\"w\" w=\"ἢν\" i=\"1\" o=\"560\">ἢν</t> <t t=\"w\" w=\"ὑμεῖς\" i=\"1\" o=\"562\">ὑμεῖς</t> <t t=\"w\" w=\"διαβαίνετε\" i=\"1\" o=\"567\">διαβαίνετε</t> <t t=\"w\" w=\"τὸν\" i=\"7\" o=\"577\">τὸν</t> <t t=\"w\" w=\"Ἰορδάνην\" i=\"1\" o=\"580\">Ἰορδάνην</t> <t t=\"w\" w=\"ἐκεῖ\" i=\"1\" o=\"588\">ἐκεῖ</t> <t t=\"w\" w=\"κληρονομεῖν\" i=\"1\" o=\"592\">κληρονομεῖν</t> <t t=\"w\" w=\"αὐτήν\" i=\"1\" o=\"603\">αὐτήν</t><t t=\"p\" w=\".\" i=\"1\" o=\"609\">.</t></p></text-part></text-part></div>\n",
+      "word_tokens": [
+        {
+          "w": "καὶ",
+          "i": 1,
+          "t": "w",
+          "o": 3
+        },
+        {
+          "w": "ἐνετείλατο",
+          "i": 1,
+          "t": "w",
+          "o": 13
+        },
+        {
+          "w": "αὐτοῖς",
+          "i": 1,
+          "t": "w",
+          "o": 19
+        },
+        {
+          "w": "Μωυσῆς",
+          "i": 1,
+          "t": "w",
+          "o": 25
+        },
+        {
+          "w": "ἐν",
+          "i": 2,
+          "t": "w",
+          "o": 27
+        },
+        {
+          "w": "τῇ",
+          "i": 1,
+          "t": "w",
+          "o": 29
+        },
+        {
+          "w": "ἡμέρᾳ",
+          "i": 1,
+          "t": "w",
+          "o": 34
+        },
+        {
+          "w": "ἐκείνῃ",
+          "i": 1,
+          "t": "w",
+          "o": 40
+        },
+        {
+          "w": "λέγων",
+          "i": 1,
+          "t": "w",
+          "o": 45
+        },
+        {
+          "w": "Μετὰ",
+          "i": 1,
+          "t": "w",
+          "o": 49
+        },
+        {
+          "w": "ἑπτὰ",
+          "i": 1,
+          "t": "w",
+          "o": 53
+        },
+        {
+          "w": "ἔτη",
+          "i": 1,
+          "t": "w",
+          "o": 56
+        },
+        {
+          "w": "ἐν",
+          "i": 3,
+          "t": "w",
+          "o": 58
+        },
+        {
+          "w": "καιρῷ",
+          "i": 1,
+          "t": "w",
+          "o": 63
+        },
+        {
+          "w": "ἐνιαυτοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 71
+        },
+        {
+          "w": "ἀφέσεως",
+          "i": 1,
+          "t": "w",
+          "o": 78
+        },
+        {
+          "w": "ἐν",
+          "i": 5,
+          "t": "w",
+          "o": 80
+        },
+        {
+          "w": "ἑορτῇ",
+          "i": 1,
+          "t": "w",
+          "o": 85
+        },
+        {
+          "w": "σκηνοπηγίας",
+          "i": 1,
+          "t": "w",
+          "o": 96
+        },
+        {
+          "w": "ἐν",
+          "i": 6,
+          "t": "w",
+          "o": 99
+        },
+        {
+          "w": "τῷ",
+          "i": 1,
+          "t": "w",
+          "o": 101
+        },
+        {
+          "w": "συνπορεύεσθαι",
+          "i": 1,
+          "t": "w",
+          "o": 114
+        },
+        {
+          "w": "πάντα",
+          "i": 1,
+          "t": "w",
+          "o": 119
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "i": 1,
+          "t": "w",
+          "o": 125
+        },
+        {
+          "w": "ὀφθῆναι",
+          "i": 1,
+          "t": "w",
+          "o": 132
+        },
+        {
+          "w": "ἐνώπιον",
+          "i": 1,
+          "t": "w",
+          "o": 139
+        },
+        {
+          "w": "κυρίου",
+          "i": 1,
+          "t": "w",
+          "o": 145
+        },
+        {
+          "w": "τοῦ",
+          "i": 2,
+          "t": "w",
+          "o": 148
+        },
+        {
+          "w": "θεοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 152
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 1,
+          "t": "w",
+          "o": 156
+        },
+        {
+          "w": "ἐν",
+          "i": 8,
+          "t": "w",
+          "o": 159
+        },
+        {
+          "w": "τῶ",
+          "i": 1,
+          "t": "w",
+          "o": 161
+        },
+        {
+          "w": "τόπῳ",
+          "i": 1,
+          "t": "w",
+          "o": 165
+        },
+        {
+          "w": "ᾧ",
+          "i": 1,
+          "t": "w",
+          "o": 166
+        },
+        {
+          "w": "ἂν",
+          "i": 1,
+          "t": "w",
+          "o": 168
+        },
+        {
+          "w": "ἐκλέξηται",
+          "i": 1,
+          "t": "w",
+          "o": 177
+        },
+        {
+          "w": "κύριος",
+          "i": 1,
+          "t": "w",
+          "o": 183
+        },
+        {
+          "w": "ἀναγνώσεσθε",
+          "i": 1,
+          "t": "w",
+          "o": 195
+        },
+        {
+          "w": "τὸν",
+          "i": 1,
+          "t": "w",
+          "o": 198
+        },
+        {
+          "w": "νόμον",
+          "i": 1,
+          "t": "w",
+          "o": 203
+        },
+        {
+          "w": "τοῦτον",
+          "i": 1,
+          "t": "w",
+          "o": 209
+        },
+        {
+          "w": "ἐναντίον",
+          "i": 1,
+          "t": "w",
+          "o": 217
+        },
+        {
+          "w": "παντὸς",
+          "i": 1,
+          "t": "w",
+          "o": 223
+        },
+        {
+          "w": "Ἰσραὴλ",
+          "i": 2,
+          "t": "w",
+          "o": 229
+        },
+        {
+          "w": "εἰς",
+          "i": 1,
+          "t": "w",
+          "o": 232
+        },
+        {
+          "w": "τὰ",
+          "i": 3,
+          "t": "w",
+          "o": 234
+        },
+        {
+          "w": "ὦτα",
+          "i": 1,
+          "t": "w",
+          "o": 237
+        },
+        {
+          "w": "αὐτῶν",
+          "i": 1,
+          "t": "w",
+          "o": 242
+        },
+        {
+          "w": "ἐκκλησιάσας",
+          "i": 1,
+          "t": "w",
+          "o": 254
+        },
+        {
+          "w": "τὸν",
+          "i": 2,
+          "t": "w",
+          "o": 257
+        },
+        {
+          "w": "λαόν",
+          "i": 1,
+          "t": "w",
+          "o": 261
+        },
+        {
+          "w": "τοὺς",
+          "i": 1,
+          "t": "w",
+          "o": 266
+        },
+        {
+          "w": "ἄνδρας",
+          "i": 1,
+          "t": "w",
+          "o": 272
+        },
+        {
+          "w": "καὶ",
+          "i": 2,
+          "t": "w",
+          "o": 275
+        },
+        {
+          "w": "τὰς",
+          "i": 1,
+          "t": "w",
+          "o": 278
+        },
+        {
+          "w": "γυναῖκας",
+          "i": 1,
+          "t": "w",
+          "o": 286
+        },
+        {
+          "w": "καὶ",
+          "i": 3,
+          "t": "w",
+          "o": 289
+        },
+        {
+          "w": "τὰ",
+          "i": 5,
+          "t": "w",
+          "o": 291
+        },
+        {
+          "w": "ἔκγονα",
+          "i": 1,
+          "t": "w",
+          "o": 297
+        },
+        {
+          "w": "καὶ",
+          "i": 4,
+          "t": "w",
+          "o": 300
+        },
+        {
+          "w": "τὸν",
+          "i": 3,
+          "t": "w",
+          "o": 303
+        },
+        {
+          "w": "προσήλυτον",
+          "i": 1,
+          "t": "w",
+          "o": 313
+        },
+        {
+          "w": "τὸν",
+          "i": 4,
+          "t": "w",
+          "o": 316
+        },
+        {
+          "w": "ἐν",
+          "i": 10,
+          "t": "w",
+          "o": 318
+        },
+        {
+          "w": "ταῖς",
+          "i": 1,
+          "t": "w",
+          "o": 322
+        },
+        {
+          "w": "πόλεσιν",
+          "i": 1,
+          "t": "w",
+          "o": 329
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 2,
+          "t": "w",
+          "o": 333
+        },
+        {
+          "w": "ἵνα",
+          "i": 1,
+          "t": "w",
+          "o": 337
+        },
+        {
+          "w": "ἀκούσωσιν",
+          "i": 1,
+          "t": "w",
+          "o": 346
+        },
+        {
+          "w": "καὶ",
+          "i": 5,
+          "t": "w",
+          "o": 349
+        },
+        {
+          "w": "ἵνα",
+          "i": 2,
+          "t": "w",
+          "o": 352
+        },
+        {
+          "w": "μάθωσιν",
+          "i": 1,
+          "t": "w",
+          "o": 359
+        },
+        {
+          "w": "φοβεῖσθαι",
+          "i": 1,
+          "t": "w",
+          "o": 368
+        },
+        {
+          "w": "Τύριον",
+          "i": 1,
+          "t": "w",
+          "o": 374
+        },
+        {
+          "w": "τὸν",
+          "i": 5,
+          "t": "w",
+          "o": 377
+        },
+        {
+          "w": "θεὸν",
+          "i": 1,
+          "t": "w",
+          "o": 381
+        },
+        {
+          "w": "ὑμῶν",
+          "i": 3,
+          "t": "w",
+          "o": 385
+        },
+        {
+          "w": "καὶ",
+          "i": 6,
+          "t": "w",
+          "o": 389
+        },
+        {
+          "w": "ἀκούσονται",
+          "i": 1,
+          "t": "w",
+          "o": 399
+        },
+        {
+          "w": "ποιεῖν",
+          "i": 1,
+          "t": "w",
+          "o": 405
+        },
+        {
+          "w": "πάντας",
+          "i": 1,
+          "t": "w",
+          "o": 411
+        },
+        {
+          "w": "τοὺς",
+          "i": 2,
+          "t": "w",
+          "o": 415
+        },
+        {
+          "w": "λόγους",
+          "i": 1,
+          "t": "w",
+          "o": 421
+        },
+        {
+          "w": "τοῦ",
+          "i": 4,
+          "t": "w",
+          "o": 424
+        },
+        {
+          "w": "νόμου",
+          "i": 1,
+          "t": "w",
+          "o": 429
+        },
+        {
+          "w": "τούτου",
+          "i": 1,
+          "t": "w",
+          "o": 435
+        },
+        {
+          "w": "καὶ",
+          "i": 7,
+          "t": "w",
+          "o": 439
+        },
+        {
+          "w": "οἱ",
+          "i": 1,
+          "t": "w",
+          "o": 441
+        },
+        {
+          "w": "υἱοὶ",
+          "i": 1,
+          "t": "w",
+          "o": 445
+        },
+        {
+          "w": "αὐτῶν",
+          "i": 2,
+          "t": "w",
+          "o": 450
+        },
+        {
+          "w": "οἳ",
+          "i": 1,
+          "t": "w",
+          "o": 452
+        },
+        {
+          "w": "οὐκ",
+          "i": 1,
+          "t": "w",
+          "o": 455
+        },
+        {
+          "w": "οἴδασιν",
+          "i": 1,
+          "t": "w",
+          "o": 462
+        },
+        {
+          "w": "ἀκούσονται",
+          "i": 2,
+          "t": "w",
+          "o": 472
+        },
+        {
+          "w": "καὶ",
+          "i": 8,
+          "t": "w",
+          "o": 476
+        },
+        {
+          "w": "μαθήσονται",
+          "i": 1,
+          "t": "w",
+          "o": 486
+        },
+        {
+          "w": "φοβεῖσθαι",
+          "i": 2,
+          "t": "w",
+          "o": 495
+        },
+        {
+          "w": "κύριον",
+          "i": 1,
+          "t": "w",
+          "o": 501
+        },
+        {
+          "w": "τὸν",
+          "i": 6,
+          "t": "w",
+          "o": 504
+        },
+        {
+          "w": "θεόν",
+          "i": 1,
+          "t": "w",
+          "o": 508
+        },
+        {
+          "w": "σου",
+          "i": 1,
+          "t": "w",
+          "o": 511
+        },
+        {
+          "w": "πάσας",
+          "i": 1,
+          "t": "w",
+          "o": 516
+        },
+        {
+          "w": "τὰς",
+          "i": 2,
+          "t": "w",
+          "o": 519
+        },
+        {
+          "w": "ἡμέρας",
+          "i": 1,
+          "t": "w",
+          "o": 525
+        },
+        {
+          "w": "ὅσας",
+          "i": 1,
+          "t": "w",
+          "o": 529
+        },
+        {
+          "w": "αὐτοὶ",
+          "i": 1,
+          "t": "w",
+          "o": 534
+        },
+        {
+          "w": "ζῶσιν",
+          "i": 1,
+          "t": "w",
+          "o": 539
+        },
+        {
+          "w": "ἐπὶ",
+          "i": 1,
+          "t": "w",
+          "o": 542
+        },
+        {
+          "w": "τῆς",
+          "i": 1,
+          "t": "w",
+          "o": 545
+        },
+        {
+          "w": "γῆς",
+          "i": 1,
+          "t": "w",
+          "o": 548
+        },
+        {
+          "w": "εἰς",
+          "i": 2,
+          "t": "w",
+          "o": 551
+        },
+        {
+          "w": "ἢν",
+          "i": 1,
+          "t": "w",
+          "o": 553
+        },
+        {
+          "w": "ὑμεῖς",
+          "i": 1,
+          "t": "w",
+          "o": 558
+        },
+        {
+          "w": "διαβαίνετε",
+          "i": 1,
+          "t": "w",
+          "o": 568
+        },
+        {
+          "w": "τὸν",
+          "i": 7,
+          "t": "w",
+          "o": 571
+        },
+        {
+          "w": "Ἰορδάνην",
+          "i": 1,
+          "t": "w",
+          "o": 579
+        },
+        {
+          "w": "ἐκεῖ",
+          "i": 1,
+          "t": "w",
+          "o": 583
+        },
+        {
+          "w": "κληρονομεῖν",
+          "i": 1,
+          "t": "w",
+          "o": 594
+        },
+        {
+          "w": "αὐτήν",
+          "i": 1,
+          "t": "w",
+          "o": 599
+        }
+      ]
+    },
+    "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8": {
+      "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8/",
+      "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8/json/",
+      "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8/text/",
+      "text": {
+        "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+        "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+        "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+        "ancestors": [
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+            "urn": "urn:cts:greekLit:tlg0527",
+            "label": "Old Testament"
+          },
+          {
+            "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+            "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+            "urn": "urn:cts:greekLit:tlg0527.tlg006",
+            "label": "Joshua"
+          }
+        ],
+        "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+        "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+        "lang": "grc",
+        "human_lang": "Greek",
+        "kind": "edition"
+      },
+      "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7-9.8",
+      "refs": {
+        "start": {
+          "reference": "9.7",
+          "human_reference": "Chapter 9 Verse 7"
+        },
+        "end": {
+          "reference": "9.8",
+          "human_reference": "Chapter 9 Verse 8"
+        }
+      },
+      "ancestors": [
+        {
+          "reference": "9"
+        }
+      ],
+      "children": [],
+      "text_html": "<div id=\"edition\" class=\"edition lang_grc\"><text-part class=\"chapter\" reference=\"9\"><text-part class=\"verse leaf o\" reference=\"9.7\"><p><t t=\"w\" w=\"καὶ\" i=\"1\" o=\"0\">καὶ</t> <t t=\"w\" w=\"μετὰ\" i=\"1\" o=\"3\">μετὰ</t> <t t=\"w\" w=\"ταῦτα\" i=\"1\" o=\"7\">ταῦτα</t> <t t=\"w\" w=\"οὕτως\" i=\"1\" o=\"12\">οὕτως</t> <t t=\"w\" w=\"ἀνέγνω\" i=\"1\" o=\"17\">ἀνέγνω</t> <t t=\"w\" w=\"Ἰησοῦς\" i=\"1\" o=\"23\">Ἰησοῦς</t> <t t=\"w\" w=\"πάντα\" i=\"1\" o=\"29\">πάντα</t> <t t=\"w\" w=\"τὰ\" i=\"2\" o=\"34\">τὰ</t> <t t=\"w\" w=\"ῥήματα\" i=\"1\" o=\"36\">ῥήματα</t> <t t=\"w\" w=\"τοῦ\" i=\"1\" o=\"42\">τοῦ</t> <t t=\"w\" w=\"νόμου\" i=\"1\" o=\"45\">νόμου</t> <t t=\"w\" w=\"τούτου\" i=\"1\" o=\"50\">τούτου</t><t t=\"p\" w=\",\" i=\"1\" o=\"57\">,</t> <t t=\"w\" w=\"τὰς\" i=\"1\" o=\"58\">τὰς</t> <t t=\"w\" w=\"εὐλογίας\" i=\"1\" o=\"61\">εὐλογίας</t> <t t=\"w\" w=\"καὶ\" i=\"2\" o=\"69\">καὶ</t> <t t=\"w\" w=\"τὰς\" i=\"2\" o=\"72\">τὰς</t> <br> <br> <t t=\"w\" w=\"κατάρας\" i=\"1\" o=\"75\">κατάρας</t> <t t=\"w\" w=\"κατὰ\" i=\"1\" o=\"82\">κατὰ</t> <t t=\"w\" w=\"πάντα\" i=\"2\" o=\"86\">πάντα</t> <t t=\"w\" w=\"τὰ\" i=\"6\" o=\"91\">τὰ</t> <t t=\"w\" w=\"γεγραμμένα\" i=\"1\" o=\"93\">γεγραμμένα</t> <t t=\"w\" w=\"ἐν\" i=\"1\" o=\"103\">ἐν</t> <t t=\"w\" w=\"τῷ\" i=\"1\" o=\"105\">τῷ</t> <t t=\"w\" w=\"νόμῳ\" i=\"1\" o=\"107\">νόμῳ</t> <t t=\"w\" w=\"Μωυσῆ\" i=\"1\" o=\"111\">Μωυσῆ</t><t t=\"p\" w=\"·\" i=\"1\" o=\"117\">·</t></p></text-part><text-part class=\"verse leaf o\" reference=\"9.8\"><p><t t=\"w\" w=\"οὐκ\" i=\"1\" o=\"118\">οὐκ</t> <t t=\"w\" w=\"ἦν\" i=\"1\" o=\"121\">ἦν</t> <t t=\"w\" w=\"ἀπὸ\" i=\"1\" o=\"123\">ἀπὸ</t> <t t=\"w\" w=\"πόντων\" i=\"1\" o=\"126\">πόντων</t> <t t=\"w\" w=\"ὧν\" i=\"1\" o=\"132\">ὧν</t> <t t=\"w\" w=\"ἐνετείλατο\" i=\"1\" o=\"134\">ἐνετείλατο</t> <t t=\"w\" w=\"Μωυσῆς\" i=\"1\" o=\"144\">Μωυσῆς</t> <t t=\"w\" w=\"τῷ\" i=\"2\" o=\"150\">τῷ</t> <t t=\"w\" w=\"Ἰησοῖ\" i=\"1\" o=\"152\">Ἰησοῖ</t> <t t=\"w\" w=\"ὃ\" i=\"1\" o=\"157\">ὃ</t> <t t=\"w\" w=\"οὐκ\" i=\"2\" o=\"158\">οὐκ</t> <t t=\"w\" w=\"ἀνέγνω\" i=\"2\" o=\"161\">ἀνέγνω</t> <t t=\"w\" w=\"εἰς\" i=\"1\" o=\"167\">εἰς</t> <t t=\"w\" w=\"τὰ\" i=\"7\" o=\"170\">τὰ</t> <t t=\"w\" w=\"ὦτα\" i=\"1\" o=\"172\">ὦτα</t> <t t=\"w\" w=\"πάσης\" i=\"1\" o=\"175\">πάσης</t> <t t=\"w\" w=\"ἐκκλησίας\" i=\"1\" o=\"180\">ἐκκλησίας</t> <t t=\"w\" w=\"υἱῶν\" i=\"1\" o=\"189\">υἱῶν</t> <t t=\"w\" w=\"Ἰσραήλ\" i=\"1\" o=\"193\">Ἰσραήλ</t><t t=\"p\" w=\",\" i=\"2\" o=\"200\">,</t> <t t=\"w\" w=\"τοῖς\" i=\"1\" o=\"201\">τοῖς</t> <t t=\"w\" w=\"ἀνδράσιν\" i=\"1\" o=\"205\">ἀνδράσιν</t> <t t=\"w\" w=\"καὶ\" i=\"3\" o=\"213\">καὶ</t> <t t=\"w\" w=\"ταῖς\" i=\"1\" o=\"216\">ταῖς</t> <t t=\"w\" w=\"γυναιξὶν\" i=\"1\" o=\"220\">γυναιξὶν</t> <t t=\"w\" w=\"καὶ\" i=\"4\" o=\"228\">καὶ</t> <t t=\"w\" w=\"τοῖς\" i=\"2\" o=\"231\">τοῖς</t> <t t=\"w\" w=\"παιδίοις\" i=\"1\" o=\"235\">παιδίοις</t><t t=\"p\" w=\",\" i=\"3\" o=\"244\">,</t> <t t=\"w\" w=\"καὶ\" i=\"5\" o=\"245\">καὶ</t> <t t=\"w\" w=\"τοῖς\" i=\"3\" o=\"248\">τοῖς</t> <t t=\"w\" w=\"προσηλύτοις\" i=\"1\" o=\"252\">προσηλύτοις</t> <t t=\"w\" w=\"τοῖς\" i=\"4\" o=\"263\">τοῖς</t> <t t=\"w\" w=\"προσπορευομένοις\" i=\"1\" o=\"267\">προσπορευομένοις</t> <t t=\"w\" w=\"τῷ\" i=\"3\" o=\"283\">τῷ</t> <t t=\"w\" w=\"Ἰσραήλ\" i=\"2\" o=\"285\">Ἰσραήλ</t><t t=\"p\" w=\".\" i=\"1\" o=\"292\">.</t></p>\n<a xmlns:v-popover=\"v-popover\" class=\"note\" v-popover:bottom=\"\n        {content: `(X)`, trigger: 'click'}\n      \">[*]</a><br><br></text-part></text-part></div>\n",
+      "word_tokens": [
+        {
+          "w": "καὶ",
+          "i": 1,
+          "t": "w",
+          "o": 3
+        },
+        {
+          "w": "μετὰ",
+          "i": 1,
+          "t": "w",
+          "o": 7
+        },
+        {
+          "w": "ταῦτα",
+          "i": 1,
+          "t": "w",
+          "o": 12
+        },
+        {
+          "w": "οὕτως",
+          "i": 1,
+          "t": "w",
+          "o": 17
+        },
+        {
+          "w": "ἀνέγνω",
+          "i": 1,
+          "t": "w",
+          "o": 23
+        },
+        {
+          "w": "Ἰησοῦς",
+          "i": 1,
+          "t": "w",
+          "o": 29
+        },
+        {
+          "w": "πάντα",
+          "i": 1,
+          "t": "w",
+          "o": 34
+        },
+        {
+          "w": "τὰ",
+          "i": 2,
+          "t": "w",
+          "o": 36
+        },
+        {
+          "w": "ῥήματα",
+          "i": 1,
+          "t": "w",
+          "o": 42
+        },
+        {
+          "w": "τοῦ",
+          "i": 1,
+          "t": "w",
+          "o": 45
+        },
+        {
+          "w": "νόμου",
+          "i": 1,
+          "t": "w",
+          "o": 50
+        },
+        {
+          "w": "τούτου",
+          "i": 1,
+          "t": "w",
+          "o": 56
+        },
+        {
+          "w": "τὰς",
+          "i": 1,
+          "t": "w",
+          "o": 60
+        },
+        {
+          "w": "εὐλογίας",
+          "i": 1,
+          "t": "w",
+          "o": 68
+        },
+        {
+          "w": "καὶ",
+          "i": 2,
+          "t": "w",
+          "o": 71
+        },
+        {
+          "w": "τὰς",
+          "i": 2,
+          "t": "w",
+          "o": 74
+        },
+        {
+          "w": "κατάρας",
+          "i": 1,
+          "t": "w",
+          "o": 81
+        },
+        {
+          "w": "κατὰ",
+          "i": 1,
+          "t": "w",
+          "o": 85
+        },
+        {
+          "w": "πάντα",
+          "i": 2,
+          "t": "w",
+          "o": 90
+        },
+        {
+          "w": "τὰ",
+          "i": 6,
+          "t": "w",
+          "o": 92
+        },
+        {
+          "w": "γεγραμμένα",
+          "i": 1,
+          "t": "w",
+          "o": 102
+        },
+        {
+          "w": "ἐν",
+          "i": 1,
+          "t": "w",
+          "o": 104
+        },
+        {
+          "w": "τῷ",
+          "i": 1,
+          "t": "w",
+          "o": 106
+        },
+        {
+          "w": "νόμῳ",
+          "i": 1,
+          "t": "w",
+          "o": 110
+        },
+        {
+          "w": "Μωυσῆ",
+          "i": 1,
+          "t": "w",
+          "o": 115
+        },
+        {
+          "w": "οὐκ",
+          "i": 1,
+          "t": "w",
+          "o": 119
+        },
+        {
+          "w": "ἦν",
+          "i": 1,
+          "t": "w",
+          "o": 121
+        },
+        {
+          "w": "ἀπὸ",
+          "i": 1,
+          "t": "w",
+          "o": 124
+        },
+        {
+          "w": "πόντων",
+          "i": 1,
+          "t": "w",
+          "o": 130
+        },
+        {
+          "w": "ὧν",
+          "i": 1,
+          "t": "w",
+          "o": 132
+        },
+        {
+          "w": "ἐνετείλατο",
+          "i": 1,
+          "t": "w",
+          "o": 142
+        },
+        {
+          "w": "Μωυσῆς",
+          "i": 1,
+          "t": "w",
+          "o": 148
+        },
+        {
+          "w": "τῷ",
+          "i": 2,
+          "t": "w",
+          "o": 150
+        },
+        {
+          "w": "Ἰησοῖ",
+          "i": 1,
+          "t": "w",
+          "o": 155
+        },
+        {
+          "w": "ὃ",
+          "i": 1,
+          "t": "w",
+          "o": 156
+        },
+        {
+          "w": "οὐκ",
+          "i": 2,
+          "t": "w",
+          "o": 159
+        },
+        {
+          "w": "ἀνέγνω",
+          "i": 2,
+          "t": "w",
+          "o": 165
+        },
+        {
+          "w": "εἰς",
+          "i": 1,
+          "t": "w",
+          "o": 168
+        },
+        {
+          "w": "τὰ",
+          "i": 7,
+          "t": "w",
+          "o": 170
+        },
+        {
+          "w": "ὦτα",
+          "i": 1,
+          "t": "w",
+          "o": 173
+        },
+        {
+          "w": "πάσης",
+          "i": 1,
+          "t": "w",
+          "o": 178
+        },
+        {
+          "w": "ἐκκλησίας",
+          "i": 1,
+          "t": "w",
+          "o": 187
+        },
+        {
+          "w": "υἱῶν",
+          "i": 1,
+          "t": "w",
+          "o": 191
+        },
+        {
+          "w": "Ἰσραήλ",
+          "i": 1,
+          "t": "w",
+          "o": 197
+        },
+        {
+          "w": "τοῖς",
+          "i": 1,
+          "t": "w",
+          "o": 202
+        },
+        {
+          "w": "ἀνδράσιν",
+          "i": 1,
+          "t": "w",
+          "o": 210
+        },
+        {
+          "w": "καὶ",
+          "i": 3,
+          "t": "w",
+          "o": 213
+        },
+        {
+          "w": "ταῖς",
+          "i": 1,
+          "t": "w",
+          "o": 217
+        },
+        {
+          "w": "γυναιξὶν",
+          "i": 1,
+          "t": "w",
+          "o": 225
+        },
+        {
+          "w": "καὶ",
+          "i": 4,
+          "t": "w",
+          "o": 228
+        },
+        {
+          "w": "τοῖς",
+          "i": 2,
+          "t": "w",
+          "o": 232
+        },
+        {
+          "w": "παιδίοις",
+          "i": 1,
+          "t": "w",
+          "o": 240
+        },
+        {
+          "w": "καὶ",
+          "i": 5,
+          "t": "w",
+          "o": 244
+        },
+        {
+          "w": "τοῖς",
+          "i": 3,
+          "t": "w",
+          "o": 248
+        },
+        {
+          "w": "προσηλύτοις",
+          "i": 1,
+          "t": "w",
+          "o": 259
+        },
+        {
+          "w": "τοῖς",
+          "i": 4,
+          "t": "w",
+          "o": 263
+        },
+        {
+          "w": "προσπορευομένοις",
+          "i": 1,
+          "t": "w",
+          "o": 279
+        },
+        {
+          "w": "τῷ",
+          "i": 3,
+          "t": "w",
+          "o": 281
+        },
+        {
+          "w": "Ἰσραήλ",
+          "i": 2,
+          "t": "w",
+          "o": 287
+        },
+        {
+          "w": "X",
+          "i": 1,
+          "t": "w",
+          "o": 290
+        }
+      ]
+    }
+  },
+  "joshua_locator_searches": {
+    "ἀνέγνω": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.7",
+            "refs": {
+              "start": {
+                "reference": "9.7",
+                "human_reference": "Chapter 9 Verse 7"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 2
+    },
+    "ἐκκλησίας": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    },
+    "γυναιξὶν": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    },
+    "παιδίοις": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    },
+    "προσηλύτοις": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    }
+  },
+  "book_form_searches": {
+    "Deuteronomy::ἔκγονα": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.13/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.13/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.13/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.13",
+            "refs": {
+              "start": {
+                "reference": "7.13",
+                "human_reference": "Chapter 7 Verse 13"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "7"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.25/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.25/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.25/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:7.25",
+            "refs": {
+              "start": {
+                "reference": "7.25",
+                "human_reference": "Chapter 7 Verse 25"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "7"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.4/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.4/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.4/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.4",
+            "refs": {
+              "start": {
+                "reference": "28.4",
+                "human_reference": "Chapter 28 Verse 4"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.18/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.18/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.18/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.18",
+            "refs": {
+              "start": {
+                "reference": "28.18",
+                "human_reference": "Chapter 28 Verse 18"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.51/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.51/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.51/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.51",
+            "refs": {
+              "start": {
+                "reference": "28.51",
+                "human_reference": "Chapter 28 Verse 51"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.53/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.53/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.53/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.53",
+            "refs": {
+              "start": {
+                "reference": "28.53",
+                "human_reference": "Chapter 28 Verse 53"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11",
+            "refs": {
+              "start": {
+                "reference": "29.11",
+                "human_reference": "Chapter 29 Verse 11"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "29"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.12/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.12/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.12/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:31.12",
+            "refs": {
+              "start": {
+                "reference": "31.12",
+                "human_reference": "Chapter 31 Verse 12"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "31"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 8
+    },
+    "Deuteronomy::τέκνα": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:2.34/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:2.34/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:2.34/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:2.34",
+            "refs": {
+              "start": {
+                "reference": "2.34",
+                "human_reference": "Chapter 2 Verse 34"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "2"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.14/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.14/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.14/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.14",
+            "refs": {
+              "start": {
+                "reference": "3.14",
+                "human_reference": "Chapter 3 Verse 14"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "3"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.19/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.19/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.19/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:3.19",
+            "refs": {
+              "start": {
+                "reference": "3.19",
+                "human_reference": "Chapter 3 Verse 19"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "3"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:5.9/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:5.9/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:5.9/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:5.9",
+            "refs": {
+              "start": {
+                "reference": "5.9",
+                "human_reference": "Chapter 5 Verse 9"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "5"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:11.19/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:11.19/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:11.19/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:11.19",
+            "refs": {
+              "start": {
+                "reference": "11.19",
+                "human_reference": "Chapter 11 Verse 19"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "11"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.54/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.54/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.54/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.54",
+            "refs": {
+              "start": {
+                "reference": "28.54",
+                "human_reference": "Chapter 28 Verse 54"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.56/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.56/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.56/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:28.56",
+            "refs": {
+              "start": {
+                "reference": "28.56",
+                "human_reference": "Chapter 28 Verse 56"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "28"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:29.11",
+            "refs": {
+              "start": {
+                "reference": "29.11",
+                "human_reference": "Chapter 29 Verse 11"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "29"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.5/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.5/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.5/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.5",
+            "refs": {
+              "start": {
+                "reference": "32.5",
+                "human_reference": "Chapter 32 Verse 5"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "32"
+              }
+            ],
+            "children": []
+          }
+        },
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg005/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg005/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg005/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg005",
+                  "label": "Deuteronomy"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1",
+              "label": "Δευτερονόμιον",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:32.8",
+            "refs": {
+              "start": {
+                "reference": "32.8",
+                "human_reference": "Chapter 32 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "32"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 10
+    },
+    "Joshua::παιδία": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:1.14/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:1.14/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:1.14/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:1.14",
+            "refs": {
+              "start": {
+                "reference": "1.14",
+                "human_reference": "Chapter 1 Verse 14"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "1"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    },
+    "Joshua::παιδίοις": {
+      "results": [
+        {
+          "passage": {
+            "url": "/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/",
+            "json_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/json/",
+            "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8/text/",
+            "text": {
+              "url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/",
+              "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/json/",
+              "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1/text/",
+              "ancestors": [
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527/text/",
+                  "urn": "urn:cts:greekLit:tlg0527",
+                  "label": "Old Testament"
+                },
+                {
+                  "url": "/library/urn:cts:greekLit:tlg0527.tlg006/",
+                  "json_url": "/library/urn:cts:greekLit:tlg0527.tlg006/json/",
+                  "text_url": "/library/passage/urn:cts:greekLit:tlg0527.tlg006/text/",
+                  "urn": "urn:cts:greekLit:tlg0527.tlg006",
+                  "label": "Joshua"
+                }
+              ],
+              "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1",
+              "label": "Josue Cod. Vaticanus + Cod. Alexandrinus)",
+              "lang": "grc",
+              "human_lang": "Greek",
+              "kind": "edition"
+            },
+            "urn": "urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:9.8",
+            "refs": {
+              "start": {
+                "reference": "9.8",
+                "human_reference": "Chapter 9 Verse 8"
+              }
+            },
+            "ancestors": [
+              {
+                "reference": "9"
+              }
+            ],
+            "children": []
+          }
+        }
+      ],
+      "total_count": 1
+    },
+    "Joshua::ἔκγονα": {
+      "results": [],
+      "total_count": 0
+    }
+  }
+}

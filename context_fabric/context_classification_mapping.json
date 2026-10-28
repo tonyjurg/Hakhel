@@ -1,0 +1,404 @@
+{
+  "mapping_name": "taf_context_frame",
+  "mapping_type": "researcher-supplied interpretive classification",
+  "corpus": "ETCBC BHSA 2021",
+  "input_key": "reference",
+  "output_fields": [
+    "context_frame",
+    "context_detail",
+    "relevant_hebrew_phrase",
+    "taph_rendering",
+    "working_translation",
+    "classification_note"
+  ],
+  "method_note": "Context Fabric retrieves the references, Hebrew forms, verse text, morphology, and syntax. The contextual frames, phrase boundaries, translations, and explanatory notes below are researcher-supplied close readings; they are not BHSA features or values returned by MCP.",
+  "translation_note": "The English phrases are deliberately close working translations, not quotations from a published Bible. The collective noun טף is rendered as 'little ones', 'small children', or 'household dependants' according to the local syntax. 'Dependants' is used where טף functions as a household aggregate and may include more than young children. Square brackets mark words supplied for readable English.",
+  "revision_note": "The earlier three-frame scheme placed movement, settlement, and dependent care in one group. The 2026-08-07 review separates material provision and survival as a fourth frame, adds a narrower context_detail, and moves Jeremiah 41:16 from movement to conflict/captivity because the verse describes people recovered from a captor.",
+  "validation_rule": "Every retrieved טף reference must occur exactly once. Its mapped Hebrew phrase, after removal of pointing and cantillation, must occur in the retrieved BHSA verse. An omitted, duplicated, unexpected, or textually mismatched reference stops the notebook.",
+  "frame_definitions": {
+    "conflict, captivity, or lethal judgment": "The little ones are threatened, captured, recovered from capture, treated as spoil, killed, spared after combat, or exposed to human or divine lethal judgment.",
+    "household movement, displacement, or protected residence": "The little ones or household dependants travel, are transported, remain behind, occupy protected settlements, form part of a displaced civilian population, or require protection on a journey.",
+    "household provision or survival": "Food, continued life, or material support for the little ones is the dominant local concern.",
+    "covenant, cultic, or administrative inclusion": "The little ones are expressly included in covenant standing, public Torah hearing, communal worship, or cultic-administrative registration. The label does not imply that every verse describes an assembly event."
+  },
+  "occurrences": [
+    {
+      "reference": "Genesis 34:29",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "capture and plunder after the massacre at Shechem",
+      "relevant_hebrew_phrase": "ואת־כל־טפם ואת־נשיהם שבו",
+      "taph_rendering": "their little ones",
+      "working_translation": "and they took captive all their little ones and their wives",
+      "classification_note": "The finite verb שבו, 'they took captive', directly governs the little ones and wives."
+    },
+    {
+      "reference": "Genesis 43:8",
+      "context_frame": "household provision or survival",
+      "context_detail": "a journey undertaken so that the household may survive famine",
+      "relevant_hebrew_phrase": "ונחיה ולא נמות גם־אנחנו גם־אתה גם־טפנו",
+      "taph_rendering": "our little ones",
+      "working_translation": "so that we may live and not die—we, you, and our little ones",
+      "classification_note": "Travel is proposed, but the clause itself climaxes in the survival of the whole household, including the little ones."
+    },
+    {
+      "reference": "Genesis 45:19",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "state-assisted household migration to Egypt",
+      "relevant_hebrew_phrase": "קחו־לכם מארץ מצרים עגלות לטפכם ולנשיכם",
+      "taph_rendering": "your little ones",
+      "working_translation": "take wagons from the land of Egypt for your little ones and your wives",
+      "classification_note": "The wagons are expressly provided to transport the little ones and wives."
+    },
+    {
+      "reference": "Genesis 46:5",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "household migration from Canaan to Egypt",
+      "relevant_hebrew_phrase": "וישאו בני־ישראל את־יעקב אביהם ואת־טפם ואת־נשיהם בעגלות",
+      "taph_rendering": "their little ones",
+      "working_translation": "the sons of Israel carried Jacob their father, their little ones, and their wives in the wagons",
+      "classification_note": "The little ones are named among those physically transported in the migration."
+    },
+    {
+      "reference": "Genesis 47:12",
+      "context_frame": "household provision or survival",
+      "context_detail": "food allocation according to household need",
+      "relevant_hebrew_phrase": "ויכלכל יוסף את־אביו ואת־אחיו ואת כל־בית אביו לחם לפי הטף",
+      "taph_rendering": "the household dependants",
+      "working_translation": "Joseph provided his father, his brothers, and his father's whole household with food according to the number and needs of the dependants",
+      "classification_note": "לפי הטף is literally 'according to the mouth of the טף'; in context it measures household food by the number or needs of its dependants."
+    },
+    {
+      "reference": "Genesis 47:24",
+      "context_frame": "household provision or survival",
+      "context_detail": "food retained from the harvest for household consumption",
+      "relevant_hebrew_phrase": "ולאכלכם ולאשר בבתיכם ולאכל לטפכם",
+      "taph_rendering": "your little ones",
+      "working_translation": "for your food, for those in your households, and for your little ones to eat",
+      "classification_note": "The infinitive לאכל makes consumption by the little ones the immediate function."
+    },
+    {
+      "reference": "Genesis 50:8",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "dependants left in Goshen during the funeral journey",
+      "relevant_hebrew_phrase": "רק טפם וצאנם ובקרם עזבו בארץ גשן",
+      "taph_rendering": "their little ones",
+      "working_translation": "they left only their little ones, flocks, and herds in the land of Goshen",
+      "classification_note": "The little ones remain in the settled place while the adults travel to Canaan."
+    },
+    {
+      "reference": "Genesis 50:21",
+      "context_frame": "household provision or survival",
+      "context_detail": "Joseph's promise of continuing material support",
+      "relevant_hebrew_phrase": "אנכי אכלכל אתכם ואת־טפכם",
+      "taph_rendering": "your little ones",
+      "working_translation": "I myself will provide for you and your little ones",
+      "classification_note": "The verb אכלכל, 'I will provide', directly governs the brothers and their little ones."
+    },
+    {
+      "reference": "Exodus 10:10",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "Pharaoh's sarcastic rejection of a departure with dependants",
+      "relevant_hebrew_phrase": "יהי כן יהוה עמכם כאשר אשלח אתכם ואת־טפכם",
+      "taph_rendering": "your household dependants",
+      "working_translation": "May YHWH indeed be with you if I ever let you and your household dependants go",
+      "classification_note": "The issue is who may leave Egypt; טף summarizes the dependent household members included in the proposed departure."
+    },
+    {
+      "reference": "Exodus 10:24",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "permission for dependants to depart while livestock is retained",
+      "relevant_hebrew_phrase": "רק צאנכם ובקרכם יצג גם־טפכם ילך עמכם",
+      "taph_rendering": "your household dependants",
+      "working_translation": "only your flocks and herds must remain; your household dependants may also go with you",
+      "classification_note": "The verb ילך and prepositional phrase עמכם make accompanied movement explicit."
+    },
+    {
+      "reference": "Exodus 12:37",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "the exodus population counted apart from adult men",
+      "relevant_hebrew_phrase": "כשש־מאות אלף רגלי הגברים לבד מטף",
+      "taph_rendering": "household dependants",
+      "working_translation": "about six hundred thousand adult men on foot, apart from the household dependants",
+      "classification_note": "Because הגברים counts the adult men, מטף most naturally covers the accompanying dependent population rather than one precise age band."
+    },
+    {
+      "reference": "Numbers 14:3",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "feared capture during attempted conquest",
+      "relevant_hebrew_phrase": "נשינו וטפנו יהיו לבז",
+      "taph_rendering": "our little ones",
+      "working_translation": "our wives and our little ones will become plunder",
+      "classification_note": "The feared predicate יהיו לבז, 'will become plunder', determines the primary frame."
+    },
+    {
+      "reference": "Numbers 14:31",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "divine reversal of the feared capture",
+      "relevant_hebrew_phrase": "וטפכם אשר אמרתם לבז יהיה והביאתי אתם",
+      "taph_rendering": "your little ones",
+      "working_translation": "your little ones, whom you said would become plunder—I will bring them in",
+      "classification_note": "The verse reverses the threat of capture, but לבז still supplies the local contrast and therefore the primary frame."
+    },
+    {
+      "reference": "Numbers 16:27",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "households exposed to the judgment of Korah's company",
+      "relevant_hebrew_phrase": "ודתן ואבירם יצאו נצבים פתח אהליהם ונשיהם ובניהם וטפם",
+      "taph_rendering": "their little ones",
+      "working_translation": "Dathan and Abiram came out and stood at the entrances of their tents, with their wives, their sons, and their little ones",
+      "classification_note": "The list locates the little ones within households about to be overtaken by divine judgment; it is not a neutral assembly."
+    },
+    {
+      "reference": "Numbers 31:9",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "capture of Midian's civilian population",
+      "relevant_hebrew_phrase": "וישבו בני־ישראל את־נשי מדין ואת־טפם",
+      "taph_rendering": "their little ones",
+      "working_translation": "the Israelites took captive the women of Midian and their little ones",
+      "classification_note": "The verb וישבו, 'they took captive', directly governs both groups."
+    },
+    {
+      "reference": "Numbers 31:17",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "order to kill male children among the captives",
+      "relevant_hebrew_phrase": "הרגו כל־זכר בטף",
+      "taph_rendering": "the male children among the little ones",
+      "working_translation": "kill every male among the little ones",
+      "classification_note": "The phrase זכר בטף explicitly selects the male subset within the collective טף."
+    },
+    {
+      "reference": "Numbers 31:18",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "order to spare female children among the captives",
+      "relevant_hebrew_phrase": "וכל הטף בנשים אשר לא־ידעו משכב זכר החיו לכם",
+      "taph_rendering": "the female children among the little ones",
+      "working_translation": "but all the female children among the little ones who have not known sexual relations with a male—keep alive for yourselves",
+      "classification_note": "The phrase הטף בנשים selects the female subset of טף and contrasts their survival with the killing ordered in the preceding verse."
+    },
+    {
+      "reference": "Numbers 32:16",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "settlements prepared for dependants east of the Jordan",
+      "relevant_hebrew_phrase": "גדרת צאן נבנה למקננו פה וערים לטפנו",
+      "taph_rendering": "our household dependants",
+      "working_translation": "we will build sheepfolds here for our livestock and towns for our household dependants",
+      "classification_note": "The towns provide settled protection while the fighting men cross the Jordan."
+    },
+    {
+      "reference": "Numbers 32:17",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "protected residence during the Transjordanian military campaign",
+      "relevant_hebrew_phrase": "וישב טפנו בערי המבצר מפני ישבי הארץ",
+      "taph_rendering": "our household dependants",
+      "working_translation": "our household dependants will remain in the fortified towns because of the inhabitants of the land",
+      "classification_note": "The verbs and location describe noncombatants remaining under protection while the armed men depart."
+    },
+    {
+      "reference": "Numbers 32:24",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "towns built for dependants before military departure",
+      "relevant_hebrew_phrase": "בנו־לכם ערים לטפכם וגדרת לצנאכם",
+      "taph_rendering": "your household dependants",
+      "working_translation": "build towns for your household dependants and enclosures for your flocks",
+      "classification_note": "This instruction repeats the settlement arrangement of Numbers 32:16–17."
+    },
+    {
+      "reference": "Numbers 32:26",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "little ones and wives left in the Gileadite towns",
+      "relevant_hebrew_phrase": "טפנו נשינו מקננו וכל־בהמתנו יהיו־שם בערי הגלעד",
+      "taph_rendering": "our little ones",
+      "working_translation": "our little ones, our wives, our livestock, and all our animals will remain there in the towns of Gilead",
+      "classification_note": "Here wives are listed separately, so 'little ones' is more precise than the broader 'dependants'."
+    },
+    {
+      "reference": "Deuteronomy 1:39",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "reversal of the wilderness generation's fear of capture",
+      "relevant_hebrew_phrase": "וטפכם אשר אמרתם לבז יהיה ובניכם אשר לא־ידעו היום טוב ורע המה יבאו שמה",
+      "taph_rendering": "your little ones",
+      "working_translation": "your little ones, whom you said would become plunder, and your sons who today do not know good from evil—they will enter there",
+      "classification_note": "The verse recalls the threatened-plunder formula while promising the younger generation entry into the land."
+    },
+    {
+      "reference": "Deuteronomy 2:34",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "the population of Sihon's towns placed under the ban",
+      "relevant_hebrew_phrase": "ונחרם את־כל־עיר מתם והנשים והטף לא השארנו שריד",
+      "taph_rendering": "the little ones",
+      "working_translation": "we put every town under the ban—men, women, and little ones; we left no survivor",
+      "classification_note": "The verb ונחרם and the statement that no survivor remained make this a case of lethal conquest, not merely population movement."
+    },
+    {
+      "reference": "Deuteronomy 3:6",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "the population of Og's towns placed under the ban",
+      "relevant_hebrew_phrase": "החרם כל־עיר מתם הנשים והטף",
+      "taph_rendering": "the little ones",
+      "working_translation": "putting every town under the ban—men, women, and little ones",
+      "classification_note": "As in Deuteronomy 2:34, טף occurs inside the population formula governed by החרם."
+    },
+    {
+      "reference": "Deuteronomy 3:19",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "families remaining in Transjordan while the fighting men cross",
+      "relevant_hebrew_phrase": "רק נשיכם וטפכם ומקנכם ידעתי כי־מקנה רב לכם ישבו בעריכם אשר נתתי לכם",
+      "taph_rendering": "your little ones",
+      "working_translation": "only your wives, your little ones, and your livestock—I know that you have much livestock—shall remain in the towns that I have given you",
+      "classification_note": "The little ones are part of the noncombatant household population that remains settled."
+    },
+    {
+      "reference": "Deuteronomy 20:14",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "women and little ones treated as spoil after a city's defeat",
+      "relevant_hebrew_phrase": "רק הנשים והטף והבהמה וכל אשר יהיה בעיר כל־שללה תבז לך",
+      "taph_rendering": "the little ones",
+      "working_translation": "but the women, the little ones, the livestock, and everything in the city—all its spoil—you may take as plunder",
+      "classification_note": "The rule expressly places the little ones within the captured population and spoil of war."
+    },
+    {
+      "reference": "Deuteronomy 29:10",
+      "context_frame": "covenant, cultic, or administrative inclusion",
+      "context_detail": "the covenant community standing before YHWH",
+      "relevant_hebrew_phrase": "טפכם נשיכם וגרך אשר בקרב מחניך",
+      "taph_rendering": "your little ones",
+      "working_translation": "your little ones, your wives, and your resident alien who is within your camp",
+      "classification_note": "The verse continues the list of those standing before YHWH to enter the covenant; טף is part of the covenant public."
+    },
+    {
+      "reference": "Deuteronomy 31:12",
+      "context_frame": "covenant, cultic, or administrative inclusion",
+      "context_detail": "the septennial public reading of Torah",
+      "relevant_hebrew_phrase": "הקהל את־העם האנשים והנשים והטף וגרך אשר בשעריך למען ישמעו ולמען ילמדו",
+      "taph_rendering": "the little ones",
+      "working_translation": "assemble the people—the men, the women, the little ones, and your resident alien within your gates—so that they may hear and so that they may learn",
+      "classification_note": "The little ones are grammatically part of the object of הקהל and of the plural audience for the purpose clauses."
+    },
+    {
+      "reference": "Joshua 1:14",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "families remaining in Transjordan while warriors cross",
+      "relevant_hebrew_phrase": "נשיכם טפכם ומקניכם ישבו בארץ אשר נתן לכם משה בעבר הירדן",
+      "taph_rendering": "your little ones",
+      "working_translation": "your wives, your little ones, and your livestock shall remain in the land Moses gave you beyond the Jordan",
+      "classification_note": "The verse restates the Transjordanian division between settled households and crossing warriors."
+    },
+    {
+      "reference": "Joshua 8:35",
+      "context_frame": "covenant, cultic, or administrative inclusion",
+      "context_detail": "public Torah reading before the entire assembly",
+      "relevant_hebrew_phrase": "נגד כל־קהל ישראל והנשים והטף והגר ההלך בקרבם",
+      "taph_rendering": "the little ones",
+      "working_translation": "before the whole assembly of Israel, including the women, the little ones, and the resident alien who lived among them",
+      "classification_note": "The phrase identifies the little ones as present within the audience before whom Joshua reads Moses' command."
+    },
+    {
+      "reference": "Judges 18:21",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "dependants positioned at the front of a migrating convoy",
+      "relevant_hebrew_phrase": "וישימו את־הטף ואת־המקנה ואת־הכבודה לפניהם",
+      "taph_rendering": "the little ones",
+      "working_translation": "they placed the little ones, the livestock, and the goods ahead of them",
+      "classification_note": "The little ones' position within the moving convoy is the immediate narrative concern."
+    },
+    {
+      "reference": "Judges 21:10",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "an ordered punitive massacre at Jabesh-gilead",
+      "relevant_hebrew_phrase": "לכו והכיתם את־יושבי יבש גלעד לפי־חרב והנשים והטף",
+      "taph_rendering": "the little ones",
+      "working_translation": "go and strike the inhabitants of Jabesh-gilead with the edge of the sword, including the women and the little ones",
+      "classification_note": "Women and little ones fall within the stated scope of the lethal command."
+    },
+    {
+      "reference": "2_Samuel 15:22",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "Ittai's household retinue crossing during David's flight",
+      "relevant_hebrew_phrase": "ויעבר אתי הגתי וכל־אנשיו וכל־הטף אשר אתו",
+      "taph_rendering": "all the little ones",
+      "working_translation": "Ittai the Gittite crossed over with all his men and all the little ones who were with him",
+      "classification_note": "The little ones accompany a displaced military retinue rather than participate as combatants."
+    },
+    {
+      "reference": "Jeremiah 40:7",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "a post-conquest civilian remnant placed under Gedaliah",
+      "relevant_hebrew_phrase": "הפקיד אתו אנשים ונשים וטף ומדלת הארץ מאשר לא־הגלו בבלה",
+      "taph_rendering": "little ones",
+      "working_translation": "[the king of Babylon] placed under him men, women, little ones, and some of the poorest of the land who had not been exiled to Babylon",
+      "classification_note": "The little ones belong to the non-exiled civilian remnant; displacement and remaining in the land dominate the setting."
+    },
+    {
+      "reference": "Jeremiah 41:16",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "civilians recovered from a political captor",
+      "relevant_hebrew_phrase": "ונשים וטף וסרסים אשר השיב מגבעון",
+      "taph_rendering": "little ones",
+      "working_translation": "and women, little ones, and court officials whom he brought back from Gibeon",
+      "classification_note": "The repeated השיב describes recovery from Ishmael's captivity, so the earlier movement classification understated the conflict setting."
+    },
+    {
+      "reference": "Jeremiah 43:6",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "the surviving population taken in the flight to Egypt",
+      "relevant_hebrew_phrase": "את־הגברים ואת־הנשים ואת־הטף ואת־בנות המלך ואת כל־הנפש אשר הניח נבוזראדן",
+      "taph_rendering": "the little ones",
+      "working_translation": "the men, the women, the little ones, the king's daughters, and every person whom Nebuzaradan had left behind",
+      "classification_note": "Within Jeremiah 43:5–7 this enumerated remnant is taken to Egypt, making forced displacement the controlling episode."
+    },
+    {
+      "reference": "Ezekiel 9:6",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "visionary judgment against Jerusalem's population",
+      "relevant_hebrew_phrase": "זקן בחור ובתולה וטף ונשים תהרגו למשחית",
+      "taph_rendering": "little ones",
+      "working_translation": "old man, young man, young woman, little ones, and women—you shall kill them to destruction",
+      "classification_note": "The imperative תהרגו includes טף in the population exposed to visionary judgment."
+    },
+    {
+      "reference": "Esther 3:13",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "the royal decree to annihilate the Jews",
+      "relevant_hebrew_phrase": "להשמיד להרג ולאבד את־כל־היהודים מנער ועד־זקן טף ונשים ביום אחד",
+      "taph_rendering": "little ones",
+      "working_translation": "to destroy, kill, and annihilate all the Jews, from youth to old man, little ones and women, in a single day",
+      "classification_note": "The little ones are explicitly included in the target population of the annihilation decree."
+    },
+    {
+      "reference": "Esther 8:11",
+      "context_frame": "conflict, captivity, or lethal judgment",
+      "context_detail": "the counter-decree authorizing lethal defense and plunder",
+      "relevant_hebrew_phrase": "להקהל ולעמד על־נפשם להשמיד ולהרג ולאבד את־כל־חיל עם ומדינה הצרים אתם טף ונשים",
+      "taph_rendering": "little ones",
+      "working_translation": "to assemble and stand for their lives, and to destroy, kill, and annihilate every armed force of people or province attacking them, including little ones and women",
+      "classification_note": "Although להקהל occurs, this is armed mobilization. The syntax of הצרים אתם טף ונשים is disputed: the working translation includes little ones and women among those exposed to the counter-decree, while another reading takes them as the women and children of the Jews whom the armed force attacks. Either reading belongs in the conflict frame."
+    },
+    {
+      "reference": "Ezra 8:21",
+      "context_frame": "household movement, displacement, or protected residence",
+      "context_detail": "a fast seeking divine protection for a journey",
+      "relevant_hebrew_phrase": "לבקש ממנו דרך ישרה לנו ולטפנו ולכל־רכושנו",
+      "taph_rendering": "our little ones",
+      "working_translation": "to seek from him a safe road for us, our little ones, and all our possessions",
+      "classification_note": "The requested דרך ישרה concerns safe travel for the full caravan, including the little ones."
+    },
+    {
+      "reference": "2_Chronicles 20:13",
+      "context_frame": "covenant, cultic, or administrative inclusion",
+      "context_detail": "the whole community standing before YHWH in crisis",
+      "relevant_hebrew_phrase": "וכל־יהודה עמדים לפני יהוה גם־טפם נשיהם ובניהם",
+      "taph_rendering": "their small children",
+      "working_translation": "all Judah was standing before YHWH, including their small children, their wives, and their sons",
+      "classification_note": "The little ones are present in a communal act of standing before YHWH; their distinction from בנים supports the narrower rendering 'small children'."
+    },
+    {
+      "reference": "2_Chronicles 31:18",
+      "context_frame": "covenant, cultic, or administrative inclusion",
+      "context_detail": "genealogical registration for cultic distributions",
+      "relevant_hebrew_phrase": "ולהתיחש בכל־טפם נשיהם ובניהם ובנותיהם לכל־קהל",
+      "taph_rendering": "their small children",
+      "working_translation": "and [the genealogical enrollment included] all their small children, their wives, their sons, and their daughters—the whole assembly",
+      "classification_note": "The governing infinitive להתיחש denotes genealogical enrollment, not attendance at an assembly; the frame records institutional inclusion in the cultic distribution system."
+    }
+  ]
+}

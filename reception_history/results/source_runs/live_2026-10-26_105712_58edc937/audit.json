@@ -1,0 +1,31 @@
+{
+  "run_id": "live_2026-10-26_105712_58edc937",
+  "started_at": "2026-10-26T10:57:12.506613+01:00",
+  "completed_at": "2026-10-26T11:05:13.069540+01:00",
+  "started_at_utc": "2026-10-26T09:57:12.506613+00:00",
+  "completed_at_utc": "2026-10-26T10:05:13.069562+00:00",
+  "software_versions": {
+    "python": "3.14.2",
+    "mcp": "1.30.0",
+    "pandas": "3.0.3",
+    "nbformat": "5.10.4"
+  },
+  "endpoint": "https://mcp.sefaria.org/sse",
+  "queries": 12,
+  "requested_texts": 345,
+  "successful_texts": 344,
+  "missing_curated_references": [],
+  "queries_at_result_limit": [
+    "הקהל את העם האנשים והנשים והטף",
+    "ליתן שכר למביאיהם",
+    "ליתן שכר למביאיהן"
+  ],
+  "retrieval_errors": [
+    {
+      "ref": "German Commentary on Mishnah Kiddushin 1:7:7",
+      "english": null,
+      "hebrew": null,
+      "error": "ValueError('Response contains no Hebrew or English text')"
+    }
+  ]
+}

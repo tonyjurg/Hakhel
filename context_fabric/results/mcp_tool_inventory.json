@@ -1,0 +1,525 @@
+{
+  "server": {
+    "name": "Context-Fabric",
+    "title": null,
+    "version": "1.30.0",
+    "websiteUrl": null,
+    "icons": null
+  },
+  "protocol_version": "2025-11-25",
+  "tools": [
+    {
+      "name": "list_corpora",
+      "title": null,
+      "description": "List all currently loaded corpora.\n\nReturns:\n    Dictionary with 'corpora' list and 'current' corpus name.\n",
+      "inputSchema": {
+        "properties": {},
+        "title": "list_corporaArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "list_corporaDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "describe_corpus",
+      "title": null,
+      "description": "Get corpus structure overview.\n\nReturns node types and section structure. Use list_features() to browse\nfeatures, describe_feature() for details, get_text_formats() for encoding.\n\nArgs:\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    Corpus overview including:\n    - node_types: All node types with counts\n    - sections: Section hierarchy levels\n",
+      "inputSchema": {
+        "properties": {
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "title": "describe_corpusArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "describe_corpusDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "describe_feature",
+      "title": null,
+      "description": "Get detailed info about one or more features.\n\nReturns metadata, node_types, and sample values (by frequency).\nUse list_features() first to browse available features.\n\nArgs:\n    feature: Feature name or list of names (e.g., \"sp\" or [\"sp\", \"vt\"])\n    sample_limit: Max sample values per feature (default 20)\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    Feature details including:\n    - name, kind, value_type, description\n    - node_types: Which object types have this feature\n    - unique_values: Count of unique values\n    - sample_values: Top values by frequency with counts\n",
+      "inputSchema": {
+        "properties": {
+          "feature": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              }
+            ],
+            "title": "Feature"
+          },
+          "sample_limit": {
+            "default": 20,
+            "title": "Sample Limit",
+            "type": "integer"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "required": [
+          "feature"
+        ],
+        "title": "describe_featureArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "describe_featureDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "list_features",
+      "title": null,
+      "description": "List features with optional filtering.\n\nReturns lightweight catalog for discovery. Use node_types to filter by\nobject type. For full details with samples, use describe_feature().\n\nArgs:\n    kind: Filter by \"all\", \"node\", or \"edge\"\n    node_types: Filter to features for these types (e.g., [\"word\"])\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    List of features with name, kind, value_type, description.\n",
+      "inputSchema": {
+        "properties": {
+          "kind": {
+            "default": "all",
+            "title": "Kind",
+            "type": "string"
+          },
+          "node_types": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Node Types"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "title": "list_featuresArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "list_featuresDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "get_text_formats",
+      "title": null,
+      "description": "Get text encoding samples showing original script and transliteration.\n\nReturns format pairs with diverse samples. Use when constructing search\nqueries that need specific text encodings. Results are cached per corpus.\n\nArgs:\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    Text format information with sample pairs.\n",
+      "inputSchema": {
+        "properties": {
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "title": "get_text_formatsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "get_text_formatsDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "search",
+      "title": null,
+      "description": "Search for patterns in the corpus.\n\nArgs:\n    template: Search template (use search_syntax_guide() for syntax help)\n    return_type: What to return:\n        - \"results\": Paginated node info with cursor (default)\n        - \"count\": Just total count\n        - \"statistics\": Feature distributions per matched node position\n        - \"passages\": Formatted text grouped by section\n    aggregate_features: For statistics: which features to aggregate\n    group_by_section: For statistics: include distribution by book\n    top_n: For statistics: max values per feature (default 50)\n    limit: For results/passages: page size (default 100)\n    max_override: Bypass limit cap. May produce large responses - use judiciously.\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    Search results formatted according to return_type.\n    For \"results\", includes cursor for pagination via search_continue().\n",
+      "inputSchema": {
+        "properties": {
+          "template": {
+            "title": "Template",
+            "type": "string"
+          },
+          "return_type": {
+            "default": "results",
+            "title": "Return Type",
+            "type": "string"
+          },
+          "aggregate_features": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Aggregate Features"
+          },
+          "group_by_section": {
+            "default": false,
+            "title": "Group By Section",
+            "type": "boolean"
+          },
+          "top_n": {
+            "default": 50,
+            "title": "Top N",
+            "type": "integer"
+          },
+          "limit": {
+            "default": 100,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "max_override": {
+            "default": false,
+            "title": "Max Override",
+            "type": "boolean"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "required": [
+          "template"
+        ],
+        "title": "searchArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "searchDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "search_continue",
+      "title": null,
+      "description": "Continue a paginated search using a cursor ID.\n\nUse this to get additional pages of results from a previous search.\nCursors expire after 5 minutes.\n\nArgs:\n    cursor_id: The cursor ID from a previous search\n    offset: Number of results to skip\n    limit: Maximum number of results to return (default 100)\n    max_override: Bypass limit cap. May produce large responses - use judiciously.\n\nReturns:\n    Next page of search results with updated cursor.\n",
+      "inputSchema": {
+        "properties": {
+          "cursor_id": {
+            "title": "Cursor Id",
+            "type": "string"
+          },
+          "offset": {
+            "default": 0,
+            "title": "Offset",
+            "type": "integer"
+          },
+          "limit": {
+            "default": 100,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "max_override": {
+            "default": false,
+            "title": "Max Override",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "cursor_id"
+        ],
+        "title": "search_continueArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "search_continueDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "search_csv",
+      "title": null,
+      "description": "Export search results to a CSV file.\n\nUse this tool instead of search() when exporting large result sets that\nwould be unwieldy to return inline. Results are written directly to a file\nrather than returned in the response.\n\nNote: This tool writes to the local filesystem and requires stdio transport.\nNot available over HTTP/SSE - use search() with a limit parameter instead.\n\nWrites delimited values with header row. Multi-node search results\nare flattened with positional prefixes (node0_*, node1_*, etc.).\n\nArgs:\n    template: Search template (use search_syntax_guide() for syntax help)\n    file_path: Absolute path to write the CSV file\n    limit: Maximum rows to export (default 10000)\n    delimiter: Field separator (default \",\", use \"\\t\" for TSV)\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    File path, total matches found, and rows written.\n",
+      "inputSchema": {
+        "properties": {
+          "template": {
+            "title": "Template",
+            "type": "string"
+          },
+          "file_path": {
+            "title": "File Path",
+            "type": "string"
+          },
+          "limit": {
+            "default": 10000,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "delimiter": {
+            "default": ",",
+            "title": "Delimiter",
+            "type": "string"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "required": [
+          "template",
+          "file_path"
+        ],
+        "title": "search_csvArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "search_csvDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "search_syntax_guide",
+      "title": null,
+      "description": "Get documentation on search template syntax.\n\nCall without args for summary + available sections. Call with section\nname to get detailed content for that topic.\n\nArgs:\n    section: Optional section name (basics, structure, relations,\n             quantifiers, examples). None returns overview.\n\nReturns:\n    Without section: summary + list of available sections.\n    With section: detailed content for that section.\n",
+      "inputSchema": {
+        "properties": {
+          "section": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Section"
+          }
+        },
+        "title": "search_syntax_guideArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "search_syntax_guideDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "get_passages",
+      "title": null,
+      "description": "Get passages by section references.\n\nBatch lookup of multiple sections at once.\n\nArgs:\n    sections: List of section references, e.g., [['Genesis', 1, 1], ['Exodus', 2, 3]]\n    limit: Maximum sections to return (default 50)\n    lang: ISO 639 language code for section names (e.g., 'en' for English book names)\n    max_override: Bypass limit cap. May produce large responses - use judiciously.\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    List of passages with text and node information.\n",
+      "inputSchema": {
+        "properties": {
+          "sections": {
+            "items": {
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "integer"
+                  }
+                ]
+              },
+              "type": "array"
+            },
+            "title": "Sections",
+            "type": "array"
+          },
+          "limit": {
+            "default": 50,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "lang": {
+            "default": "en",
+            "title": "Lang",
+            "type": "string"
+          },
+          "max_override": {
+            "default": false,
+            "title": "Max Override",
+            "type": "boolean"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "required": [
+          "sections"
+        ],
+        "title": "get_passagesArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "get_passagesDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    },
+    {
+      "name": "get_node_features",
+      "title": null,
+      "description": "Get feature values for a list of nodes.\n\nBatch lookup of feature values for multiple nodes.\n\nArgs:\n    nodes: List of node IDs\n    features: List of feature names to retrieve\n    corpus: Corpus name (defaults to current corpus)\n\nReturns:\n    Feature values for each node.\n",
+      "inputSchema": {
+        "properties": {
+          "nodes": {
+            "items": {
+              "type": "integer"
+            },
+            "title": "Nodes",
+            "type": "array"
+          },
+          "features": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Features",
+            "type": "array"
+          },
+          "corpus": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Corpus"
+          }
+        },
+        "required": [
+          "nodes",
+          "features"
+        ],
+        "title": "get_node_featuresArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "title": "get_node_featuresDictOutput",
+        "type": "object"
+      },
+      "icons": null,
+      "annotations": null,
+      "meta": null,
+      "execution": null
+    }
+  ]
+}

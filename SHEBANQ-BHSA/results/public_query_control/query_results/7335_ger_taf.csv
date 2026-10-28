@@ -1,0 +1,7 @@
+shebanq_query_id,shebanq_short_name,shebanq_query_name,bhsa_version,shebanq_result_count,shebanq_csv_row_count,shebanq_reference,reference,book,chapter,verse,slot,text,ktv,lexeme-t,part-of-speech,gender,phrase#,tab
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Deuteronomium 29:10,Deuteronomy 29:10,Deuteronomium,29,10,109717,טַפְּכֶ֣ם ,,VP/,subs,m,1,9
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Deuteronomium 29:10,Deuteronomy 29:10,Deuteronomium,29,10,109720,גֵ֣רְךָ֔ ,,GR/,subs,m,1,9
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110931,טַּ֔ף ,,VP/,subs,m,2,4
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Deuteronomium 31:12,Deuteronomy 31:12,Deuteronomium,31,12,110933,גֵרְךָ֖ ,,GR/,subs,m,2,4
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Josua 8:35,Joshua 8:35,Josua,8,35,117735,טַּ֔ף ,,VP/,subs,m,5,4
+7335,ger_with_taph,Where occur טף and גר together,2021,6,6,Josua 8:35,Joshua 8:35,Josua,8,35,117738,גֵּ֖ר ,,GR/,subs,m,5,4

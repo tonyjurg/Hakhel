@@ -1,0 +1,2 @@
+-r ../lxx/requirements.txt
+tqdm>=4.66
