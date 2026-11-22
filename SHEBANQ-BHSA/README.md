@@ -98,8 +98,4 @@ The controls support the Hebrew investigation; they do not replace close reading
 
 The project’s own code is licensed under the [MIT License](../LICENSE).
 Its original research writing and explanatory text are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); see the [text licence](../LICENSE-TEXT.md).
-These licences cover the author’s own contributions; source texts and datasets retain their separate terms.
-
-The BHSA data behind these controls is CC BY-NC 4.0.
-Keep query authors and query IDs alongside their MQL and descriptions; public access does not establish a blanket reuse licence for those contributions.
-See [Sources, attribution, and reuse](../DATA_RIGHTS.md#2---bhsa-and-the-shebanq-controls).
+These licences cover the author’s own contributions; source texts and datasets retain their separate terms. The BHSA data behind these controls in this directory is CC BY-NC 4.0. See [Sources, attribution, and reuse](../DATA_RIGHTS.md#2---bhsa-and-the-shebanq-controls).
