@@ -104,14 +104,17 @@ On the first launch Context-Fabric compiles a `.cfm` cache.
 Compilation can take several minutes and use several gigabytes of memory.
 Later starts can reuse the cache and are considerably faster.
 
-The notebook also contains a guarded auto-start cell.
+The notebook also contains a guarded auto-start cell. 
 It reuses a service already listening on the configured port; the later MCP checks confirm that the required tools are available.
-To execute the complete notebook from PowerShell, use:
+
+When Anaconda is installed, the complete notebook can be run from PowerShell using the following command:
 
 ```powershell
 & "$env:USERPROFILE\anaconda3\envs\context_fabric\python.exe" `
   ".\context_fabric\run_context_fabric_notebook.py"
 ```
+
+Note that the part after `USERPROFILE\anaconda3\envs\` maps to the actual environment you want to use.
 
 # 6 - Provenance<a class="anchor" id="bullet6"></a>
 ##### [Back to ToC](#TOC)
